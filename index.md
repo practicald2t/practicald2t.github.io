@@ -17,7 +17,7 @@ layout: default
 <div class="forms">
     <img src="assets/images/mail.png">
     <a href="mailto:practicald2t@googlegroups.com">
-    <p>Submit a paper</p>
+    <p>Submit your work</p>
     </a>
 </div>
 </div>
@@ -39,7 +39,7 @@ The hackathon is an official workshop for the joint <a href="https://2023.sigdia
 ### Topic
 The topic will revolve around generating text based on structured data – e.g., automatically generating weather forecasts, news articles, or sports reports. The specific assignment will announced to the participants at the beginning of the hackathon. 
 
-Do you have a topic suggestion in mind? Let us know through the following 👉️ **[form](https://forms.gle/ZCjZPtkxBgfwKDYd8)**!
+Do you have a specific topic suggestion in mind? Let us know through the following 👉️ **[form](https://forms.gle/ZCjZPtkxBgfwKDYd8)**!
 
 
 ## Submissions
@@ -53,7 +53,7 @@ The topics we are interested in include:
 - integrating language models in data-to-text generation systems,
 - comparing and evaluating neural-based and rule-based data-to-text generation.
 
-Please, send your submissions to [practicald2t@googlegroups.com](mailto:practicald2t@googlegroups.com) with the subject "[Submission] {paper title}" before the submission deadline (see below).
+Please, send your submissions to [practicald2t@googlegroups.com](mailto:practicald2t@googlegroups.com) with the subject "[Submission] {title of your work}" before the submission deadline (see below).
 
 
 
