@@ -6,9 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css?v=' | append: site.github.build_revision | relative_url }}">
   {% include head-custom.html %}
 
   {% seo %}
+
 </head>
 
 <body>
@@ -20,17 +22,19 @@
       </a>
       <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
-      <h4>INLG 2023, Prague, Czechia</h4>
+      <h4>SIGDIAL / INLG 2023, Prague, Czechia</h4>
       <section id="downloads">
 
         <a href="#hackathon" class="btn">Hackathon</a>
-        <a href="#poster-session" class="btn">Poster session</a>
+        <a href="#submissions" class="btn">Submissions</a>
         <a href="#for-participants" class="btn">For participants</a>
         <a href="#schedule" class="btn">Schedule</a>
-        <a href="#organizers" class="btn">Organizers</a>
         <a href="#invited-talk" class="btn">Invited talk</a>
+        <a href="#organizers" class="btn">Organizers</a>
       </section>
     </div>
+
+
 
   </header>
 
@@ -39,6 +43,7 @@
       {{ content }}
     </section>
   </div>
+
 </body>
 
 </html>
