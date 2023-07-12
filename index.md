@@ -42,6 +42,27 @@ The topic will revolve around generating text based on structured data – e.g.,
 Do you have a specific topic suggestion in mind? Let us know through the following 👉️ **[form](https://forms.gle/ZCjZPtkxBgfwKDYd8)**!
 
 
+
+## Invited Talk
+
+Topic TBA
+
+<div class="organizer-container">
+<div class="organizer">
+        <img src="assets/images/craig.jpg" alt="Craig Thomson">
+        <a href="https://www.abdn.ac.uk/people/c.thomson/">
+            <p>Craig Thomson</p>
+        </a>
+        <span>University of Aberdeen</span>
+</div>
+<div class="organizer" style="text-align:left !important">
+       Craig Thomson is a Research Fellow in the department of Computing Science at the University of Aberdeen. His interests include task definition, datasets, and evaluation methods for complex data-to-text problems, as well as reproducibility and error analysis of evaluation methods in NLP.
+</div>
+</div>
+
+
+
+
 ## Submissions
 We invite participants to submit their work which will be presented as a poster during the hackathon. Our workshop is **non-archival**, meaning that the paper **will not** appear in the conference proceedings.
 
@@ -90,9 +111,6 @@ Preliminary schedule:
 | 17:30 - 17:55 | Results, discussion          |
 | 17:55 - 18:00 | Closing remarks              |
 
-
-## Invited Talk
-To be announced!
 
 
 ## Organizers
