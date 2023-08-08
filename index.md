@@ -45,7 +45,9 @@ Do you have a specific topic suggestion in mind? Let us know through the followi
 
 ## Invited Talk
 
-Topic TBA
+### Craig Thomson: Exploring the Complex Data-to-Text Problem
+
+The complexity of data poses additional challenges for data-to-text systems, especially when that complexity is mirrored in the generated text.  Domains such as automated sports journalism can require systems to output not only direct facts from input data but to perform operations such as a sum or average, that are then described in natural language.  These challenges manifest in system and dataset design, as well as in evaluation.  This talk will cover our work on exploring the complex data-to-text problem at the University of Aberdeen including; (i) creating and using datasets that are representative of real-world complex data-to-text problems, (ii) designing evaluation methods powerful enough to detect factual mistakes in complex texts, (iii) using the complexity of the data to inform document plans.
 
 <div class="organizer-container">
 <div class="organizer">
