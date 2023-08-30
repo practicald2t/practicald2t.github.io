@@ -104,14 +104,15 @@ The hackathon will take place on **11th September 2023**.
 
 Preliminary schedule:
 
-| Time (CEST)   | Event                        |
-| ------------- | ---------------------------- |
-| 9:00 - 10:00  | Invited talk                 |
-| 10:00 - 12:30 | Hackathon                    |
-| 12:30 - 14:00 | Lunch break + poster session |
-| 14:00 - 17:30 | Hackathon                    |
-| 17:30 - 17:55 | Results, discussion          |
-| 17:55 - 18:00 | Closing remarks              |
+| Time (CEST)   | Event               |
+| ------------- | ------------------- |
+| 9:00 - 10:00  | Invited talk        |
+| 10:00 - 12:30 | Hackathon           |
+| 12:30 - 13:30 | Lunch break         |
+| 13:30 - 14:00 | Poster session      |
+| 14:00 - 17:30 | Hackathon           |
+| 17:30 - 17:55 | Results, discussion |
+| 17:55 - 18:00 | Closing remarks     |
 
 
 
