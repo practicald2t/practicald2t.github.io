@@ -45,24 +45,27 @@ Do you have a specific topic suggestion in mind? Let us know through the followi
 
 ## Invited Talk
 
-### Craig Thomson: Exploring the Complex Data-to-Text Problem
+### Tom Kocmi
 
-The complexity of data poses additional challenges for data-to-text systems, especially when that complexity is mirrored in the generated text.  Domains such as automated sports journalism can require systems to output not only direct facts from input data but to perform operations such as a sum or average, that are then described in natural language.  These challenges manifest in system and dataset design, as well as in evaluation.  This talk will cover our work on exploring the complex data-to-text problem at the University of Aberdeen including; (i) creating and using datasets that are representative of real-world complex data-to-text problems, (ii) designing evaluation methods powerful enough to detect factual mistakes in complex texts, (iii) using the complexity of the data to inform document plans.
+
+**The Evolution of Automatic Metrics and Open Challenges in LLM era**
+
+For years, the progress in modeling has outpaced the evaluation in NLP, where we relied predominantly on string-based matching metrics. In this talk, we will outline the differences and benefits between the three classes of metrics: n-gram matching (such as ChrF or BLEU), pretrained models (COMET, BLEURT), and the emerging group of black-box LLMs (GEMBA). We will primarily focus on the last group and how it may shift approach to the automatic evaluation, highlighting open questions and challenges anticipated in the new LLM era.
 
 <div class="organizer-container">
 <div class="organizer">
-        <img src="assets/images/craig.jpg" alt="Craig Thomson">
-        <a href="https://www.abdn.ac.uk/people/c.thomson/">
-            <p>Craig Thomson</p>
+        <img src="assets/images/tom.jpg" alt="Tom Kocmi">
+        <a href="http://kocmi.tk">
+            <p>Tom Kocmi</p>
         </a>
-        <span>University of Aberdeen</span>
+        <span>Microsoft</span>
 </div>
 <div class="organizer" style="text-align:left !important">
-       Craig Thomson is a Research Fellow in the department of Computing Science at the University of Aberdeen. His interests include task definition, datasets, and evaluation methods for complex data-to-text problems, as well as reproducibility and error analysis of evaluation methods in NLP.
+       Tom Kocmi is Senior Researcher at Microsoft, focusing on evaluation of machine translation (MT). His recent work includes an extensive evaluation of automatic MT metrics and using LLMs as the state-of-the-art evaluator of generated MT text.
 </div>
 </div>
 
-
+*Note: The original talk of Craig Thomson has been cancelled since Craig could not participate in the conference.*
 
 
 ## Submissions
