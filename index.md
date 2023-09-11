@@ -2,7 +2,13 @@
 layout: default
 ---
  <div class="forms-container">
-<div class="forms">
+ <div class="forms">
+    <img src="assets/images/github-logo.png">
+    <a href="https://github.com/practicald2t/hackathon/">
+    <p style="font-size: large">Hackathon – Github</p>
+    </a>
+</div>
+<!-- <div class="forms">
     <img src="assets/images/google-forms.png">
     <a href="https://forms.gle/Ze15Fbd2kG6RQV8D9">
     <p>Pre-register</p>
@@ -19,7 +25,7 @@ layout: default
     <a href="mailto:practicald2t@googlegroups.com">
     <p>Submit your work</p>
     </a>
-</div>
+</div> -->
 </div>
 
 
