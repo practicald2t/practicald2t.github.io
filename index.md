@@ -167,8 +167,14 @@ Preliminary schedule:
     <span>ADAPT Centre</span>
 </div>
 </div>
+
+## Acknowledgments
+<p>Funded by the European Union (ERC, NG-NLG, 101039303)</p>
+<img src="assets/images/erc2.png" style="max-width: 300px;" alt="ERC">
+
 <hr>
 <div class="footer">
     © 2023. Built using Jekyll <a href="https://github.com/pages-themes/hacker">Hacker theme</a> and icons from <a
       href="https://flaticon.com">flaticon.com</a>.
   </div>
+
