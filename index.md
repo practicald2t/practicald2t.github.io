@@ -49,9 +49,9 @@ TBD
 <div class="organizer-container">
 
 <div class="organizer">
-    <img src="assets/images/organizers/simone_ballocu.jpg" alt="Simone Ballocu">
+    <img src="assets/images/organizers/simone_balloccu.jpg" alt="Simone Ballocu">
     <a href="https://uccollab.github.io/">
-        <p>Simone Ballocu</p>
+        <p>Simone Balloccu</p>
     </a>
     <span>Charles University</span>
 </div>
