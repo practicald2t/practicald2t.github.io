@@ -47,7 +47,7 @@ For years, the progress in modeling has outpaced the evaluation in NLP, where we
 <div class="organizer-container">
 <div class="organizer">
         <img src="../assets/images/tom.jpg" alt="Tom Kocmi">
-        <a href="http://kocmi.tk">
+        <a href="https://scholar.google.cz/citations?user=8dUF8YQAAAAJ&hl=en">
             <p>Tom Kocmi</p>
         </a>
         <span>Microsoft</span>
