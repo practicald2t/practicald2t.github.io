@@ -2,5 +2,9 @@
 
 set -e
 
-gem install bundler
+# solving issue in CI
+# ERROR:  Error installing bundler:
+#  The last version of bundler (>= 0) to support your Ruby & RubyGems was 2.4.22. Try installing it with `gem install bundler -v 2.4.22`
+#     bundler requires Ruby version >= 3.0.0. The current ruby version is 2.7.8.225.
+gem install bundler -v 2.4.22
 bundle install
