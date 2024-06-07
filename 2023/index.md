@@ -9,7 +9,7 @@ layout: default
 
  <div class="forms-container">
  <div class="forms">
-    <img src="../assets/images/github-logo.png">
+    <img src="../assets/images/github-logo.png" alt="GitHub Logo">
     <a href="https://github.com/practicald2t/hackathon/">
     <p style="font-size: large">Hackathon – Github</p>
     </a>
@@ -160,7 +160,6 @@ Preliminary schedule:
 
 <hr>
 <div class="footer">
-    © 2023. Built using Jekyll <a href="https://github.com/pages-themes/hacker">Hacker theme</a> and icons from <a
-      href="https://flaticon.com">flaticon.com</a>.
+    © 2023. Built using Jekyll <a href="https://github.com/pages-themes/hacker">Hacker theme</a> and icons from flaticon.com.
   </div>
 
