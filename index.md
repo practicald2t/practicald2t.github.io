@@ -82,9 +82,9 @@ TBD
 
 <div class="organizer">
     <!-- <img src="assets/images/organizers/kristyna_onderkova.jpg" alt="Kristýna Onderková"> -->
-    <a href="TBD">
+    <!-- <a href="TBD"> -->
         <p>Kristýna Onderková</p>
-    </a>
+    <!-- </a> -->
     <span>Charles University</span>
 </div>
 <div class="organizer">
@@ -152,6 +152,5 @@ TBD
 
 <hr>
 <div class="footer">
-    © 2023. Built using Jekyll <a href="https://github.com/pages-themes/hacker">Hacker theme</a> and icons from <a
-      href="https://flaticon.com">flaticon.com</a>.
+    © 2023. Built using Jekyll <a href="https://github.com/pages-themes/hacker">Hacker theme</a> and icons from flaticon.com.
   </div>
