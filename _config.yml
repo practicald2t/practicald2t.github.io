@@ -3,3 +3,5 @@ description: The 2nd Workshop on Practical LLM-assisted Data-to-Text Generation
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+exclude:
+  - script/
