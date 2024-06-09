@@ -9,7 +9,7 @@ layout: default
 
  <div class="forms-container">
  <div class="forms">
-    <img src="../assets/images/github-logo.png">
+    <img src="../assets/images/github-logo.png" alt="GitHub Logo">
     <a href="https://github.com/practicald2t/hackathon/">
     <p style="font-size: large">Hackathon – Github</p>
     </a>
@@ -47,7 +47,7 @@ For years, the progress in modeling has outpaced the evaluation in NLP, where we
 <div class="organizer-container">
 <div class="organizer">
         <img src="../assets/images/tom.jpg" alt="Tom Kocmi">
-        <a href="http://kocmi.tk">
+        <a href="https://scholar.google.cz/citations?user=8dUF8YQAAAAJ&hl=en">
             <p>Tom Kocmi</p>
         </a>
         <span>Microsoft</span>
@@ -160,7 +160,6 @@ Preliminary schedule:
 
 <hr>
 <div class="footer">
-    © 2023. Built using Jekyll <a href="https://github.com/pages-themes/hacker">Hacker theme</a> and icons from <a
-      href="https://flaticon.com">flaticon.com</a>.
+    © 2023. Built using Jekyll <a href="https://github.com/pages-themes/hacker">Hacker theme</a> and icons from flaticon.com.
   </div>
 

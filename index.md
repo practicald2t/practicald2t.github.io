@@ -49,9 +49,9 @@ TBD
 <div class="organizer-container">
 
 <div class="organizer">
-    <img src="assets/images/organizers/simone_ballocu.jpg" alt="Simone Ballocu">
+    <img src="assets/images/organizers/simone_balloccu.jpg" alt="Simone Ballocu">
     <a href="https://uccollab.github.io/">
-        <p>Simone Ballocu</p>
+        <p>Simone Balloccu</p>
     </a>
     <span>Charles University</span>
 </div>
@@ -81,10 +81,10 @@ TBD
 </div>
 
 <div class="organizer">
-    <img src="assets/images/organizers/kristyna_onderkova.jpg" alt="Kristýna Onderková">
-    <a href="TBD">
+    <!-- <img src="assets/images/organizers/kristyna_onderkova.jpg" alt="Kristýna Onderková"> -->
+    <!-- <a href="TBD"> -->
         <p>Kristýna Onderková</p>
-    </a>
+    <!-- </a> -->
     <span>Charles University</span>
 </div>
 <div class="organizer">
@@ -152,6 +152,5 @@ TBD
 
 <hr>
 <div class="footer">
-    © 2023. Built using Jekyll <a href="https://github.com/pages-themes/hacker">Hacker theme</a> and icons from <a
-      href="https://flaticon.com">flaticon.com</a>.
+    © 2023. Built using Jekyll <a href="https://github.com/pages-themes/hacker">Hacker theme</a> and icons from flaticon.com.
   </div>
