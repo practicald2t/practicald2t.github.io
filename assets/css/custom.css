@@ -66,6 +66,20 @@ header h1,h2,h3,h4 {
             color:  #3a9ebc;
 }
 
+header a {
+            color: #3a9ebc; /* Set the text color */
+            text-decoration: none; /* Remove underline */
+            padding: 0; /* Remove padding */
+            border: none; /* Remove border */
+            background: none; /* Remove background color */
+            /*font-weight: normal; /* Ensure normal font weight */
+}
+
+        /* Optional: Add hover effect for better UX */
+header a:hover {
+            text-decoration: underline; /* Add underline on hover */
+}
+
 h1,h2,h3,h4 {
   color:  #3a9ebc;
 }
