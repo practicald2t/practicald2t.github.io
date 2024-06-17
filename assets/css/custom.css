@@ -62,6 +62,9 @@ body {
   background-image: none;
 }
 
+header h1 {
+            color:  #3d4144;
+}
 
 h1,h2,h3 {
   color:  #3d4144;
