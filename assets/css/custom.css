@@ -53,6 +53,9 @@ a {
     font-size: x-small;
 }
 
+.no-text-shadow {
+    text-shadow: none;
+}
 
 body {
   background-color: #ffffff;
