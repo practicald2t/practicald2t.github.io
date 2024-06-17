@@ -59,33 +59,25 @@ body {
   background-image: none;
 }
 
-$title-color: #3d4144;
-$paragraph-color: #7e8082;
-$link-color: #3a9ebc;
-$link-hover-color: #235e70;
-
-//Title styles
 
 h1 {
-  color: $title-color;
+  color:  #3d4144;
 }
 
 h2 {
-  color: $title-color;
+  color: #3d4144;
 }
 
-// Paragraph styles
 p {
-  color: $paragraph-color;
+  color: #7e8082;
 }
 
-// Link styles
 a {
-  color: $link-color;
+  color: #3a9ebc;
   text-decoration: none;
 
-  &:hover {
-    color: $link-hover-color;
+&:hover {
+    color: #235e70;
   }
 }
 
