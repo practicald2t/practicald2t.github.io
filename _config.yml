@@ -6,4 +6,6 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 #theme: jekyll-theme-hacker
 exclude:
   - script/
-plugins: [jekyll-include-cache]
+# Plugins (previously gems:)
+plugins:
+  - jekyll-include-cache
