@@ -1,8 +1,6 @@
 ---
 ---
 
-@import 'jekyll-theme-hacker';
-
 $background-color: #ffffff;
 //$font-family: 'Roboto', sans-serif;
 
@@ -14,3 +12,5 @@ body {
     background-color: $background-color;
 //    font-family: $font-family;
 }
+
+@import 'jekyll-theme-hacker';
