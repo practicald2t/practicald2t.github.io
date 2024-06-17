@@ -60,19 +60,11 @@ body {
 }
 
 
-h1 {
+h1,h2,h3 {
   color:  #3d4144;
 }
 
-h2 {
-  color: #3d4144;
-}
-
-p {
-  color: #7e8082;
-}
-
-span {
+p,span {
   color: #7e8082;
 }
 
