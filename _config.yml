@@ -1,11 +1,6 @@
-title: Practical D2T 2024
 description: The 2nd Workshop on Practical LLM-assisted Data-to-Text Generation
 show_downloads: false
 google_analytics:
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-#theme: jekyll-theme-hacker
+theme: jekyll-theme-hacker
 exclude:
   - script/
-# Plugins (previously gems:)
-plugins:
-  - jekyll-include-cache
