@@ -14,7 +14,7 @@ layout: default
 
 # Workshop Programme
 
-WIP
+To be announced.
 
 
 <hr>
