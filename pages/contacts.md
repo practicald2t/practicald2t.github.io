@@ -20,7 +20,7 @@ If you have any problem with the above mail group, contact [balloccu@ufal.mff.cu
 <div class="organizer-container">
 
 <div class="organizer">
-    <img src="assets/images/organizers/standard-size/simone_balloccu.png" alt="Simone Ballocu">
+    <img src="../assets/images/organizers/standard-size/simone_balloccu.png" alt="Simone Ballocu">
     <a href="https://uccollab.github.io/">
         <p>Simone Balloccu</p>
     </a>
@@ -28,7 +28,7 @@ If you have any problem with the above mail group, contact [balloccu@ufal.mff.cu
 </div>
 
 <div class="organizer">
-        <img src="assets/images/organizers/standard-size/zdenek_kasner.png" alt="Zdeněk Kasner">
+        <img src="../assets/images/organizers/standard-size/zdenek_kasner.png" alt="Zdeněk Kasner">
         <a href="https://kasnerz.github.io">
             <p>Zdeněk Kasner</p>
         </a>
@@ -36,7 +36,7 @@ If you have any problem with the above mail group, contact [balloccu@ufal.mff.cu
     </div>
     
 <div class="organizer">
-    <img src="assets/images/organizers/standard-size/ondrej_platek.png" alt="Ondřej Plátek">
+    <img src="../assets/images/organizers/standard-size/ondrej_platek.png" alt="Ondřej Plátek">
     <a href="http://opla.cz">
     <p>Ondřej Plátek</p>
      </a>
