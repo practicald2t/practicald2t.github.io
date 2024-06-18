@@ -10,7 +10,7 @@ $container-max-width: 1000px;
 //uccollab: re-theming
 $conifer-replacement: #44505a;
 $button-replacement: #353f4b;
-$font-replacement: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", "Open Sans", sans-serif
+$font-replacement: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", "Open Sans", sans-serif;
 
 @mixin media-max-width($max-width) {
   @media (max-width: $max-width) {
