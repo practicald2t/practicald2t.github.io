@@ -7,6 +7,10 @@ $header: $conifer !default;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
 $container-max-width: 1000px;
+//uccollab: re-theming
+$conifer-replacement: #44505a;
+$button-replacement: #353f4b;
+$font-replacement: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", "Open Sans", sans-serif
 
 @mixin media-max-width($max-width) {
   @media (max-width: $max-width) {
@@ -17,11 +21,11 @@ $container-max-width: 1000px;
 body {
   margin: 0;
   padding: 0;
-  background: $body-background url("../images/bkg.png") 0 0;
+  background: url("../images/d2t_bg_clear.png") 0 0;//$body-background url("../images/d2t_bg_clear.png") 0 0;
   color: $body-foreground;
   font-size: 16px;
   line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: $font-replacement; //Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
 /* General & 'Reset' Stuff */
@@ -54,7 +58,7 @@ li {
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
-  border-bottom: 1px dashed $conifer; //header;
+  border-bottom: 1px dashed $conifer-replacement;//$conifer;
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
@@ -64,11 +68,11 @@ header h1 {
   line-height: 1.5;
   margin: 0 0 0 -40px;
   font-weight: bold;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: $conifer;//$header;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
+  font-family: $font-replacement; //Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  color: $conifer-replacement//$conifer;
+  //text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+  //             0 0 5px rgba(181, 232, 83, 0.1),
+  //             0 0 10px rgba(181, 232, 83, 0.1);
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
   @include media-max-width($container-max-width) {
@@ -85,7 +89,7 @@ header h1:before {
 header h2 {
   font-size: 18px;
   font-weight: 300;
-  color: #666;
+  color: $conifer-replcement;//#666;
 }
 
 #downloads .btn {
@@ -107,8 +111,8 @@ section img {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: $header;
+  font-family: $font-replacement;//Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  color: $conifer-replacement;//$header;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -207,7 +211,7 @@ hr {
 
 .btn {
   display: inline-block;
-  background: -webkit-linear-gradient(top, rgba(40, 40, 40, 0.3), rgba(35, 35, 35, 0.3) 50%, rgba(10, 10, 10, 0.3) 50%, rgba(0, 0, 0, 0.3));
+  background: $button-replacement;//-webkit-linear-gradient(top, rgba(40, 40, 40, 0.3), rgba(35, 35, 35, 0.3) 50%, rgba(10, 10, 10, 0.3) 50%, rgba(0, 0, 0, 0.3));
   padding: 8px 18px;
   border-radius: 50px;
   border: 2px solid rgba(0, 0, 0, 0.7);
@@ -244,8 +248,8 @@ hr {
 */
 
 a {
-  color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  color: $button-replacement;//#63c0f5;
+  //text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
 /* Clearfix */
