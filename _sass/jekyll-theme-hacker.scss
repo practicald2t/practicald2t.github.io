@@ -170,7 +170,7 @@ pre {
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 10px;
   font-size: 16px;
-  color: #b5e853;
+  color: $conifer-replacement;//#b5e853;
   border-radius: 2px;
   word-wrap: normal;
   overflow: auto;
@@ -205,7 +205,7 @@ hr {
   height: 0;
   border: 0;
   border-bottom: 1px dashed #b5e853;
-  color: #b5e853;
+  color: $conifer-replacement;//#b5e853;
 }
 
 /* Buttons
