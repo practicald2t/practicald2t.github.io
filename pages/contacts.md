@@ -44,7 +44,7 @@ If you have any problem with the above mail group, contact [balloccu@ufal.mff.cu
 </div>
 
 <div class="organizer">
-    <img src="assets/images/organizers/standard-size/patricia_schmidtova.png" alt="Patricia Schmidtova">
+    <img src="../assets/images/organizers/standard-size/patricia_schmidtova.png" alt="Patricia Schmidtova">
     <a href="https://patuchen.github.io/">
         <p>Patrícia Schmidtová</p>
     </a>
@@ -52,14 +52,14 @@ If you have any problem with the above mail group, contact [balloccu@ufal.mff.cu
 </div>
 
 <div class="organizer">
-    <img src="assets/images/organizers/standard-size/kristyna_onderkova.png" alt="Kristýna Onderková">
+    <img src="../assets/images/organizers/standard-size/kristyna_onderkova.png" alt="Kristýna Onderková">
     <!-- <a href="TBD"> -->
         <p>Kristýna Onderková</p>
     <!-- </a> -->
     <span>Charles University</span>
 </div>
 <div class="organizer">
-    <img src="assets/images/organizers/standard-size/mateusz_lango.png" alt="Mateusz Lango">
+    <img src="../assets/images/organizers/standard-size/mateusz_lango.png" alt="Mateusz Lango">
     <a href="https://ufal.mff.cuni.cz/mateusz-lango">
         <p>Mateusz Lango</p>
     </a>
@@ -69,7 +69,7 @@ If you have any problem with the above mail group, contact [balloccu@ufal.mff.cu
 
 
 <div class="organizer">
-    <img src="assets/images/organizers/standard-size/ondrej_dusek.png" alt="Ondřej Dušek">
+    <img src="../assets/images/organizers/standard-size/ondrej_dusek.png" alt="Ondřej Dušek">
     <a href="https://tuetschek.github.io/">
         <p>Ondřej Dušek</p>
     </a>
@@ -77,7 +77,7 @@ If you have any problem with the above mail group, contact [balloccu@ufal.mff.cu
 </div>
 
 <div class="organizer">
-    <img src="assets/images/organizers/standard-size/lucie_flek.png" alt="Lucie Flek">
+    <img src="../assets/images/organizers/standard-size/lucie_flek.png" alt="Lucie Flek">
     <!-- <a href="https://lucieflek.github.io"> -->
     <a href="https://caisa-lab.github.io/members/lucie-flek.html">
         <p>Lucie Flek</p>
@@ -86,7 +86,7 @@ If you have any problem with the above mail group, contact [balloccu@ufal.mff.cu
 </div>
 
 <div class="organizer">
-    <img src="assets/images/organizers/standard-size/ehud_reiter.png" alt="Ehud Reiter">
+    <img src="../assets/images/organizers/standard-size/ehud_reiter.png" alt="Ehud Reiter">
     <a href="https://ehudreiter.com/">
         <p>Ehud Reiter</p>
     </a>
@@ -95,7 +95,7 @@ If you have any problem with the above mail group, contact [balloccu@ufal.mff.cu
 
 
 <div class="organizer">
-    <img src="assets/images/organizers/standard-size/dimitra_gkatzia.png" alt="Dimitra Gkatzia">
+    <img src="../assets/images/organizers/standard-size/dimitra_gkatzia.png" alt="Dimitra Gkatzia">
     <a href="https://dimitragkatzia.wordpress.com">
         <p>Dimitra Gkatzia</p>
     </a>
@@ -103,7 +103,7 @@ If you have any problem with the above mail group, contact [balloccu@ufal.mff.cu
 </div>
 
 <div class="organizer">
-    <img src="assets/images/organizers/standard-size/simon_mille.png" alt="Simon Mille">
+    <img src="../assets/images/organizers/standard-size/simon_mille.png" alt="Simon Mille">
     <a href="https://www.adaptcentre.ie/experts/simon-mille/">
         <p>Simon Mille</p>
     </a>
