@@ -111,14 +111,6 @@ TBD
 </div>
 
 <div class="organizer">
-        <img src="assets/images/organizers/standard-size/zdenek_kasner.png" alt="Zdeněk Kasner">
-    </div>
-
-<div class="organizer">
-        <img src="assets/images/organizers/standard-size/zdenek_kasner.png" alt="Zdeněk Kasner">
-    </div>
-
-<div class="organizer">
     <img src="assets/images/organizers/standard-size/ehud_reiter.png" alt="Ehud Reiter">
     <a href="https://ehudreiter.com/">
         <p>Ehud Reiter</p>
@@ -142,14 +134,6 @@ TBD
     </a>
     <span>ADAPT Centre</span>
 </div>
-
-<div class="organizer">
-        <img src="assets/images/organizers/standard-size/zdenek_kasner.png" alt="Zdeněk Kasner">
-    </div>
-
-<div class="organizer">
-        <img src="assets/images/organizers/standard-size/zdenek_kasner.png" alt="Zdeněk Kasner">
-    </div>
 
 </div> <!--organizer-container!-->
 
