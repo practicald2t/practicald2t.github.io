@@ -73,9 +73,9 @@ header h4 {
   font-weight: bold;
   font-family: $font-replacement; //Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: white;//$conifer;
-  text-shadow: 0 1px 1px black,// rgba(0, 0, 0, 0.1),
-               0 0 5px black,// rgba(181, 232, 83, 0.1),
-               0 0 10px black;// rgba(181, 232, 83, 0.1);
+  text-shadow: 0 1px 1px $blockquote-color,// rgba(0, 0, 0, 0.1),
+               0 0 5px $blockquote-color,// rgba(181, 232, 83, 0.1),
+               0 0 10px $blockquote-color;// rgba(181, 232, 83, 0.1);
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
   @include media-max-width($container-max-width) {
@@ -116,9 +116,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $font-replacement;//Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: $conifer-replacement;//$header;
   letter-spacing: -0.03em;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
+  text-shadow: 0 1px 1px $blockquote-color,//rgba(0, 0, 0, 0.1),
+               0 0 5px $blockquote-color,//rgba(181, 232, 83, 0.1),
+               0 0 10px $blockquote-color;//rgba(181, 232, 83, 0.1);
 }
 
 #main_content h1 {
@@ -146,7 +146,7 @@ h1, h2, h3, h4, h5, h6 {
 #main_content h6 {
   font-size: 12px;
   text-transform: uppercase;
-  color: black;//#999;
+  color: $blockquote-color;//#999;
   margin: 0 0 5px 0;
 }
 
