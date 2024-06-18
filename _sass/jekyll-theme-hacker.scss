@@ -254,8 +254,20 @@ p, span {
    a, a:hover, a:visited
 */
 
-a, a:link, a:hover, a:visited{
-  color: #353f4b;//$button-replacement;
+a:link {
+  color: #353f4b;
+  //text-shadow: 0 0 5px black;
+}
+
+
+a:hover{
+  color: #53a4a1;
+  //text-shadow: 0 0 5px black;
+}
+
+
+a:visited{
+  color: #460087;
   //text-shadow: 0 0 5px black;
 }
 
