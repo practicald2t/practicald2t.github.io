@@ -21,7 +21,7 @@ Motivated by this development, Practical D2T 2024 aims to build a space for rese
 
 # News
 
-- 19/06/2024: the official website Practical D2T 2024 for is online!
+- 19/06/2024: the official Practical D2T 2024 website for is online!
 
 # Invited Talks
 
