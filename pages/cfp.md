@@ -30,7 +30,7 @@ Practical D2T 2024 will be a full-day in-person-only event. We welcome contribut
 Research is currently seeing a renewed interest in developing systems combining neural and symbolic approaches to improve explainability and reduce dependence on training data. Practical D2T 2024 will feature a special track on neuro-symbolic approaches to D2T. Submissions for papers in the special track follow the same requirements and procedure as the main workshop submissions.
 
 ### Shared task: Improving Semantic Accuracy in LLM-assisted D2T
-The workshop will feature a shared task on improving semantic accuracy of D2T systems. Participants will build an LLM-assisted D2T system to generate textual reports from various domains, such as weather forecasting, product descriptions or sports reports. We will provide testing data obtained from public APIs, to limit potential previous exposure to the used LLMs. 
+This year will feature a shared task on improving semantic accuracy of D2T systems. Participants will build an LLM-assisted D2T system to generate textual reports from various domains, such as weather forecasting, product descriptions or sports reports. We will provide testing data obtained from public APIs, to limit potential previous exposure to the used LLMs. 
 
 We encourage participants to focus on system robustness and objective evaluation, rather than metrics scores. The shared task will adopt the following protocol:
 
@@ -41,7 +41,7 @@ Participants can use Llama3, Phi3, Qwen2, and Mistral, or provide their own cust
 4. **Final automatic evaluation:** once we receive all submissions, we will evaluate every received output against every received evaluation script.
 5. **Final human evaluation:** Finally, we will run a human evaluation on all the received outputs, and correlate human judgements against the automatic evaluations.
 
-Results and insights of our evaluation: how every script works on different system outputs, and how they correlate with human annotators. The system reaching the highest correlation with humans will be declared winner of the competition. Results and participants’ system descriptions will be featured in the workshop proceedings. 
+At the workshop, we will present results and insights of our evaluation: how every script works on different system outputs, and how they correlate with human annotators. The system reaching the highest correlation with humans will be declared winner of the competition. Results and participants’ system descriptions will be featured in the workshop proceedings. 
 
 # Important dates
 NOTE: All deadlines are 23:59 UTC-12.
@@ -63,7 +63,10 @@ We welcome two types of papers: regular workshop papers and non-archival submiss
 
 - **Long papers**: *up to eight (8) pages* describing substantial, completed work, with concrete evaluation wherever appropriate.
 - **Short papers**: *up to four (4) pages of content*. Short papers may describe preliminary contributions, negative results, opinion pieces, or a small set of interesting results.
-- **Shared task participation**: participants will be required to send their best output, results of our evaluation script and eventual custom evaluation results, along with the necessary modified script. 
+- **Shared task**: participants will be required to send their
+  1. Best output (textual summaries produced by their system)
+  2. Results of our evaluation script
+  3. Eventual custom evaluation results, along with the modified script and every element (i.e. model checkpoint) necessary to run it
 
 <!---
 Participants will send their submission through $TODO_CODALAB_EMAIL_OR_BOTH_? with the subject "[Submission] {title of your work}" before the submission deadline (see below).--->
