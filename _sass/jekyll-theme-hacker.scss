@@ -4,10 +4,10 @@
 $body-background: $cod-grey !default;
 $body-foreground: $gallery !default;
 $header: $conifer !default;
+//uccollab: re-theming
 $blockquote-color: black;//$silver-chalice !default;
 $blockquote-border: black;//$dove-grey !default;
 $container-max-width: 1000px;
-//uccollab: re-theming
 $conifer-replacement: #276275;
 $button-replacement: #353f4b;
 $font-replacement: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", "Open Sans", sans-serif;
@@ -254,9 +254,9 @@ p, span {
    a, a:hover, a:visited
 */
 
-#a {
+a {
   color: $button-replacement;//#63c0f5;
-  //text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  text-shadow: 0 0 5px red;
 }
 
 /* Clearfix */
