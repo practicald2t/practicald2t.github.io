@@ -81,7 +81,7 @@ TBD
 </div>
 
 <div class="organizer">
-    <img src="assets/images/organizers/standard-size/kristyna_ onderkova.png" alt="Kristýna Onderková">
+    <img src="assets/images/organizers/standard-size/kristyna_onderkova.png" alt="Kristýna Onderková">
     <!-- <a href="TBD"> -->
         <p>Kristýna Onderková</p>
     <!-- </a> -->
