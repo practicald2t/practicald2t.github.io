@@ -45,12 +45,6 @@ TBD
 
 
 ## Organizers
-<style>
-    .organizer img {
-        width: 500px;
-        height: 500px;
-    }
-</style>
 
 <div class="organizer-container">
 
