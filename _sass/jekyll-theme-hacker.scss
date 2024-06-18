@@ -4,8 +4,8 @@
 $body-background: $cod-grey !default;
 $body-foreground: $gallery !default;
 $header: $conifer !default;
-$blockquote-color: $silver-chalice !default;
-$blockquote-border: $dove-grey !default;
+$blockquote-color: black;//$silver-chalice !default;
+$blockquote-border: black;//$dove-grey !default;
 $container-max-width: 1000px;
 //uccollab: re-theming
 $conifer-replacement: #44505a;
@@ -91,7 +91,7 @@ header h1:before {
 header h2 {
   font-size: 18px;
   font-weight: 300;
-  color: $conifer-replacement;//#666;
+  //color: $conifer-replacement;//#666;
 }
 
 #downloads .btn {
