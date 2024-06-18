@@ -73,8 +73,8 @@ header h4 {
   font-weight: bold;
   font-family: $font-replacement; //Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: white;//$conifer;
-  text-shadow: 0 1px 1px;// rgba(0, 0, 0, 0.1),
-               0 0 5px;// rgba(181, 232, 83, 0.1),
+  text-shadow: 0 1px 1px,// rgba(0, 0, 0, 0.1),
+               0 0 5px,// rgba(181, 232, 83, 0.1),
                0 0 10px;// rgba(181, 232, 83, 0.1);
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
