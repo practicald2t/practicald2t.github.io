@@ -11,10 +11,6 @@ layout: default
 </div> -->
 </div>
 
-*Shared Task: Improving Semantic Accuracy D2T (with LLM)*
-
-*Special Track: Neuro-Symbolic D2T*
-
 
 ### Topic
 
@@ -115,6 +111,14 @@ TBD
 </div>
 
 <div class="organizer">
+        <img src="assets/images/organizers/standard-size/zdenek_kasner.png" alt="Zdeněk Kasner">
+    </div>
+
+<div class="organizer">
+        <img src="assets/images/organizers/standard-size/zdenek_kasner.png" alt="Zdeněk Kasner">
+    </div>
+
+<div class="organizer">
     <img src="assets/images/organizers/standard-size/ehud_reiter.png" alt="Ehud Reiter">
     <a href="https://ehudreiter.com/">
         <p>Ehud Reiter</p>
@@ -138,6 +142,14 @@ TBD
     </a>
     <span>ADAPT Centre</span>
 </div>
+
+<div class="organizer">
+        <img src="assets/images/organizers/standard-size/zdenek_kasner.png" alt="Zdeněk Kasner">
+    </div>
+
+<div class="organizer">
+        <img src="assets/images/organizers/standard-size/zdenek_kasner.png" alt="Zdeněk Kasner">
+    </div>
 
 </div> <!--organizer-container!-->
 
