@@ -254,8 +254,8 @@ p, span {
    a, a:hover, a:visited
 */
 
-a {
-  color: $button-replacement;
+a, a:hover, a:visited{
+  color: red;//$button-replacement;
   //text-shadow: 0 0 5px black;
 }
 
