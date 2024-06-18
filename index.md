@@ -12,14 +12,14 @@ layout: default
 </div>
 
 
-# Backgound
+# Background
 Natural Language Generation (NLG) has been an active area of research for decades, both academically and industrially. Data-to-text (D2T) generation (Reiter and Dale,1997; Gatt and Krahmer, 2018) is the NLG task where a system describes structured data in natural language. Traditionally, commercial D2T systems have been based on symbolic approaches (Dale, 2020; Leppänen et al., 2017), i.e. handcrafted rules or templates. More experimental approaches to D2T, such as Transformer-based systems (Dušek et al., 2020; Sharma et al., 2022) have been limited to research because of well-known issues like knowledge gaps, lack of factuality, and hallucination (Ji et al., 2023; Wang et al., 2023).
 
 The recently introduced instruction-tuned, multi-task Large Language Models (LLMs) promise to become a viable alternative to rule-based D2T systems. They exhibit the ability to capture knowledge, follow instructions, and produce coherent text from various domains (Sanh et al., 2021; Ouyang et al., 2022). However, even the best LLMs still suffer from well-known issues of neural models, such as lack of controllability and risk of producing harmful text. Recent research thus proposed various approaches to improve the semantic accuracy of LLMs D2T, including prompt tuning (Lee et al., 2022; Ye and Durrett, 2022), targeted fine-tuning (Zhang et al., 2024), Retrieval Augmented Generation (RAG) (Jiang et al., 2023; Chen et al., 2024), external tool integration (Wang et al., 2024), and neuro-symbolic approaches (Sarker et al, 2021; Hitzler et al., 2022).
 
 Motivated by this development, Practical D2T 2024 aims to build a space for researchers to discuss and present innovative work on D2T systems using LLMs. Building upon the 2023 edition’s hackathon, Practical D2T 2024 opens up a broader range of activities, including a special track for neuro-symbolic D2T approaches and a shared task in D2T evaluation focused on semantic accuracy.
 
-### Workshop topic anc content
+### Workshop topic and content
 Practical D2T 2024 will be a full-day in-person-only event. We welcome contributions from both original unpublished work and non-archival submissions, in the form of long (8 pages) or short (4 pages) papers, on topics including but not limited to:
 
 - Design, implementation and evaluation of LLM-assisted D2T systems
@@ -39,19 +39,19 @@ The workshop will feature a shared task on improving semantic accuracy of D2T sy
 
 We encourage participants to focus on system robustness and objective evaluation, rather than metrics scores. The shared task will adopt the following protocol:
 
-1. Development and evaluation on known domains: we will release a dataset covering four (4) D2T domains, on which participants will base the development of their system. For evaluation, we will provide an initial script that uses LLMs to assess criteria like semantic accuracy and fluency.
-2. Variation of the evaluation script: the script we will provide can be customised with different LLMs and prompts. Participants are encouraged to modify/improve the script to explore different evaluation methodologies.
+1. **Development and evaluation on known domains:** we will release a dataset covering four (4) D2T domains, on which participants will base the development of their system. For evaluation, we will provide an initial script that uses LLMs to assess criteria like semantic accuracy and fluency.
+2. **Variation of the evaluation script:** the script we will provide can be customised with different LLMs and prompts. Participants are encouraged to modify/improve the script to explore different evaluation methodologies.
 Participants can use Llama3, Phi3, Qwen2, and Mistral, or provide their own custom model checkpoints (along with details on the model characteristics), as long as the format is compatible with the aforementioned ones.
-3. Output submission and surprise domain evaluation: participants will submit their best output, evaluation results and eventual modified evaluation script. Upon submission, they will receive an additional test-set covering a surprise domain, to test the robustness of their system/evaluation. Participants will have one week to send back their outputs on the new test-set.
-4. Final automatic evaluation: once we receive all submissions, we will evaluate every received output against every received evaluation script.
-5. Final human evaluation: Finally, we will run a human evaluation on all the received outputs, and correlate human judgements against the automatic evaluations.
+3. **Output submission and surprise domain evaluation:** participants will submit their best output, evaluation results and eventual modified evaluation script. Upon submission, they will receive an additional test-set covering a surprise domain, to test the robustness of their system/evaluation. Participants will have one week to send back their outputs on the new test-set.
+4. **Final automatic evaluation:** once we receive all submissions, we will evaluate every received output against every received evaluation script.
+5. **Final human evaluation:** Finally, we will run a human evaluation on all the received outputs, and correlate human judgements against the automatic evaluations.
 
 Results and insights of our evaluation: how every script works on different system outputs, and how they correlate with human annotators. The system reaching the highest correlation with humans will be declared winner of the competition. Results and participants’ system descriptions will be featured in the workshop proceedings. 
 
 # Important dates
 NOTE: All deadlines are 23:59 UTC-12.
 
-- **Call for paper:  14 June
+- **Call for paper:**  14 June
 - **Evaluation script and data release for known domains (shared task):**  24 June
 - **Regular paper submission (main & special track, archival & non-archival):** 22 July
 - **Known domains system output submission & surprise domain data release:** 29 July
@@ -67,19 +67,19 @@ NOTE: All deadlines are 23:59 UTC-12.
 We welcome two types of papers: regular workshop papers and non-archival submissions. Regular workshop papers will be included in the workshop proceedings. Papers should use the INLG templates. The page counts exclude references and appendices. All submissions will be given one extra page of space to address reviewers’ comments.
 
 ### Long papers
-Long papers must describe substantial, completed work, with concrete evaluation wherever appropriate. Long papers may consist of up to eight (8) pages of content, plus unlimited pages of references. 
+Long papers must describe substantial, completed work, with concrete evaluation wherever appropriate. Long papers may consist of **up to eight (8) pages** of content, plus unlimited pages of references. 
 
 ### Short papers
-Short paper submissions may include preliminary contributions, negative results, opinion pieces, or a small set of interesting results. Short papers may consist of up to four (4) pages of content, plus unlimited pages of references.
+Short paper submissions may include preliminary contributions, negative results, opinion pieces, or a small set of interesting results. Short papers may consist of **up to four (4) pages of content**, plus unlimited pages of references.
 
 ### Shared task participation
-Participants will send their submission through $TODO with the subject "[Submission] {title of your work}" before the submission deadline (see below).
+Participants will send their submission through $TODO_CODALAB_EMAIL_OR_BOTH_? with the subject "[Submission] {title of your work}" before the submission deadline (see below).
 
 ### Multiple submission policy
 We allow multiple submissions for non-archival work.
 
 ### Submission procedure and templates
-Please submit short and long papers directly $TODO
+Please submit short and long papers directly through the [INLG submission portal](https://softconf.com/n/inlg2024/user/scmd.cgi?scmd=submitNew). When doing your submission select "Click HERE to make a new Practical Data-to-Text submission".
 Please follow the submission guidelines issued by INLG 2024.
 
 ### Optional Supplementary Materials: Appendices, Software and Data
