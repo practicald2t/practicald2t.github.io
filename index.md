@@ -66,21 +66,22 @@ NOTE: All deadlines are 23:59 UTC-12.
 
 We welcome two types of papers: regular workshop papers and non-archival submissions. Regular workshop papers will be included in the workshop proceedings. Papers should use the INLG templates. The page counts exclude references and appendices. All submissions will be given one extra page of space to address reviewers’ comments.
 
-### Long papers
-Long papers must describe substantial, completed work, with concrete evaluation wherever appropriate. Long papers may consist of **up to eight (8) pages** of content, plus unlimited pages of references. 
+- **Long papers**: *up to eight (8) pages* describing substantial, completed work, with concrete evaluation wherever appropriate.
+- **Short papers**: *up to four (4) pages of content*. Short papers may describe preliminary contributions, negative results, opinion pieces, or a small set of interesting results.
+- **Shared task participation**: participants will be required to send their best output, results of our evaluation script and eventual custom evaluation results, along with the necessary modified script. 
 
-### Short papers
-Short paper submissions may include preliminary contributions, negative results, opinion pieces, or a small set of interesting results. Short papers may consist of **up to four (4) pages of content**, plus unlimited pages of references.
+<!---
+Participants will send their submission through $TODO_CODALAB_EMAIL_OR_BOTH_? with the subject "[Submission] {title of your work}" before the submission deadline (see below).--->
 
-### Shared task participation
-Participants will send their submission through $TODO_CODALAB_EMAIL_OR_BOTH_? with the subject "[Submission] {title of your work}" before the submission deadline (see below).
+### Submission procedure and templates
+Please submit short and long papers directly through the [INLG submission portal](https://softconf.com/n/inlg2024/user/scmd.cgi?scmd=submitNew), selecting "Click HERE to make a new Practical Data-to-Text submission". 
+Choose the appropriate *submission type* (Long/Short Paper), *track* (Main/Neuro-Symbolic D2T) and *Proceedings Type* (Archival/Non-Archival).
+Submissions must follow the submission template and guidelines issued by INLG 2024.
+
+Participants of the shared task will send their submission through $TODO_CODALAB_EMAIL_OR_BOTH_? with the subject "[Submission] {title of your work}" before the submission deadline (see below)
 
 ### Multiple submission policy
 We allow multiple submissions for non-archival work.
-
-### Submission procedure and templates
-Please submit short and long papers directly through the [INLG submission portal](https://softconf.com/n/inlg2024/user/scmd.cgi?scmd=submitNew). When doing your submission select "Click HERE to make a new Practical Data-to-Text submission".
-Please follow the submission guidelines issued by INLG 2024.
 
 ### Optional Supplementary Materials: Appendices, Software and Data
 Additionally, supplementary materials can be added in an appendix. Should you make any software or data available within the paper, these need to be fully anonymised.
