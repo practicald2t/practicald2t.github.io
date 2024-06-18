@@ -49,7 +49,7 @@ TBD
 <div class="organizer-container">
 
 <div class="organizer">
-    <img src="assets/images/organizers/standard-size/SB_test.png" alt="Simone Ballocu">
+    <img src="assets/images/organizers/standard-size/simone_balloccu.png" alt="Simone Ballocu">
     <a href="https://uccollab.github.io/">
         <p>Simone Balloccu</p>
     </a>
@@ -57,7 +57,7 @@ TBD
 </div>
 
 <div class="organizer">
-        <img src="assets/images/organizers/zdenek_kasner.jpg" alt="Zdeněk Kasner">
+        <img src="assets/images/organizers/standard-size/zdenek_kasner.jpg" alt="Zdeněk Kasner">
         <a href="https://kasnerz.github.io">
             <p>Zdeněk Kasner</p>
         </a>
@@ -65,7 +65,7 @@ TBD
     </div>
     
 <div class="organizer">
-    <img src="assets/images/organizers/ondrej_platek.jpg" alt="Ondřej Plátek">
+    <img src="assets/images/organizers/standard-size/ondrej_platek.jpg" alt="Ondřej Plátek">
     <a href="http://opla.cz">
     <p>Ondřej Plátek</p>
      </a>
@@ -73,7 +73,7 @@ TBD
 </div>
 
 <div class="organizer">
-    <img src="assets/images/organizers/patricia_schmidtova.jpg" alt="Patricia Schmidtova">
+    <img src="assets/images/organizers/standard-size/patricia_schmidtova.jpg" alt="Patricia Schmidtova">
     <a href="https://patuchen.github.io/">
         <p>Patrícia Schmidtová</p>
     </a>
@@ -81,14 +81,14 @@ TBD
 </div>
 
 <div class="organizer">
-    <!-- <img src="assets/images/organizers/kristyna_onderkova.jpg" alt="Kristýna Onderková"> -->
+    <img src="assets/images/organizers/standard-size/kristyna_onderkova.jpg" alt="Kristýna Onderková">
     <!-- <a href="TBD"> -->
         <p>Kristýna Onderková</p>
     <!-- </a> -->
     <span>Charles University</span>
 </div>
 <div class="organizer">
-    <img src="assets/images/organizers/mateusz_lango.jpg" alt="Mateusz Lango">
+    <img src="assets/images/organizers/standard-size/mateusz_lango.jpg" alt="Mateusz Lango">
     <a href="https://ufal.mff.cuni.cz/mateusz-lango">
         <p>Mateusz Lango</p>
     </a>
@@ -98,7 +98,7 @@ TBD
 
 
 <div class="organizer">
-    <img src="assets/images/organizers/ondrej_dusek.jpg" alt="Ondřej Dušek">
+    <img src="assets/images/organizers/standard-size/ondrej_dusek.jpg" alt="Ondřej Dušek">
     <a href="https://tuetschek.github.io/">
         <p>Ondřej Dušek</p>
     </a>
@@ -106,7 +106,7 @@ TBD
 </div>
 
 <div class="organizer">
-    <img src="assets/images/organizers/lucie_flek.jpg" alt="Lucie Flek">
+    <img src="assets/images/organizers/standard-size/lucie_flek.jpg" alt="Lucie Flek">
     <!-- <a href="https://lucieflek.github.io"> -->
     <a href="https://caisa-lab.github.io/members/lucie-flek.html">
         <p>Lucie Flek</p>
@@ -115,7 +115,7 @@ TBD
 </div>
 
 <div class="organizer">
-    <img src="assets/images/organizers/ehud_reiter.jpg" alt="Ehud Reiter">
+    <img src="assets/images/organizers/standard-size/ehud_reiter.jpg" alt="Ehud Reiter">
     <a href="https://ehudreiter.com/">
         <p>Ehud Reiter</p>
     </a>
