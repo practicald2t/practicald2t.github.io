@@ -57,7 +57,7 @@ TBD
 </div>
 
 <div class="organizer">
-        <img src="assets/images/organizers/standard-size/zdenek_kasner.jpg" alt="Zdeněk Kasner">
+        <img src="assets/images/organizers/standard-size/zdenek_kasner.png" alt="Zdeněk Kasner">
         <a href="https://kasnerz.github.io">
             <p>Zdeněk Kasner</p>
         </a>
@@ -65,7 +65,7 @@ TBD
     </div>
     
 <div class="organizer">
-    <img src="assets/images/organizers/standard-size/ondrej_platek.jpg" alt="Ondřej Plátek">
+    <img src="assets/images/organizers/standard-size/ondrej_platek.png" alt="Ondřej Plátek">
     <a href="http://opla.cz">
     <p>Ondřej Plátek</p>
      </a>
@@ -73,7 +73,7 @@ TBD
 </div>
 
 <div class="organizer">
-    <img src="assets/images/organizers/standard-size/patricia_schmidtova.jpg" alt="Patricia Schmidtova">
+    <img src="assets/images/organizers/standard-size/patricia_schmidtova.png" alt="Patricia Schmidtova">
     <a href="https://patuchen.github.io/">
         <p>Patrícia Schmidtová</p>
     </a>
@@ -81,14 +81,14 @@ TBD
 </div>
 
 <div class="organizer">
-    <img src="assets/images/organizers/standard-size/kristyna_onderkova.jpg" alt="Kristýna Onderková">
+    <img src="assets/images/organizers/standard-size/kristyna_onderkova.png" alt="Kristýna Onderková">
     <!-- <a href="TBD"> -->
         <p>Kristýna Onderková</p>
     <!-- </a> -->
     <span>Charles University</span>
 </div>
 <div class="organizer">
-    <img src="assets/images/organizers/standard-size/mateusz_lango.jpg" alt="Mateusz Lango">
+    <img src="assets/images/organizers/standard-size/mateusz_lango.png" alt="Mateusz Lango">
     <a href="https://ufal.mff.cuni.cz/mateusz-lango">
         <p>Mateusz Lango</p>
     </a>
@@ -98,7 +98,7 @@ TBD
 
 
 <div class="organizer">
-    <img src="assets/images/organizers/standard-size/ondrej_dusek.jpg" alt="Ondřej Dušek">
+    <img src="assets/images/organizers/standard-size/ondrej_dusek.png" alt="Ondřej Dušek">
     <a href="https://tuetschek.github.io/">
         <p>Ondřej Dušek</p>
     </a>
@@ -106,7 +106,7 @@ TBD
 </div>
 
 <div class="organizer">
-    <img src="assets/images/organizers/standard-size/lucie_flek.jpg" alt="Lucie Flek">
+    <img src="assets/images/organizers/standard-size/lucie_flek.png" alt="Lucie Flek">
     <!-- <a href="https://lucieflek.github.io"> -->
     <a href="https://caisa-lab.github.io/members/lucie-flek.html">
         <p>Lucie Flek</p>
@@ -115,7 +115,7 @@ TBD
 </div>
 
 <div class="organizer">
-    <img src="assets/images/organizers/standard-size/ehud_reiter.jpg" alt="Ehud Reiter">
+    <img src="assets/images/organizers/standard-size/ehud_reiter.png" alt="Ehud Reiter">
     <a href="https://ehudreiter.com/">
         <p>Ehud Reiter</p>
     </a>
@@ -124,7 +124,7 @@ TBD
 
 
 <div class="organizer">
-    <img src="assets/images/organizers/dimitra_gkatzia.jpg" alt="Dimitra Gkatzia">
+    <img src="assets/images/organizers/standard-size/dimitra_gkatzia.png" alt="Dimitra Gkatzia">
     <a href="https://dimitragkatzia.wordpress.com">
         <p>Dimitra Gkatzia</p>
     </a>
@@ -132,7 +132,7 @@ TBD
 </div>
 
 <div class="organizer">
-    <img src="assets/images/organizers/simon_mille.jpg" alt="Simon Mille">
+    <img src="assets/images/organizers/standard-size/simon_mille.png" alt="Simon Mille">
     <a href="https://www.adaptcentre.ie/experts/simon-mille/">
         <p>Simon Mille</p>
     </a>
