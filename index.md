@@ -12,19 +12,19 @@ layout: default
 </div>
 
 
-### Topic
+## Backgound
 
 TBD
 
-## Invited Talk
+## Workshop topic anc content
 
 TBD
 
 
-## Important Dates
+## Special Track: Neuro-Symbolic D2T
 TBD
 
-## Submissions
+## Shared task: Improving Semantic Accuracy in LLM-assisted D2T
 TBD
 
 Please, send your submissions to [practicald2t@googlegroups.com](mailto:practicald2t@googlegroups.com) with the subject "[Submission] {title of your work}" before the submission deadline (see below).
