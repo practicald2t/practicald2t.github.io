@@ -44,7 +44,7 @@ Participants can use Llama3, Phi3, Qwen2, and Mistral, or provide their own cust
 At the workshop, we will present results and insights of our evaluation: how every script works on different system outputs, and how they correlate with human annotators. The system reaching the highest correlation with humans will be declared winner of the competition. Results and participants’ system descriptions will be featured in the workshop proceedings. 
 
 # Important dates
-NOTE: All deadlines are 23:59 UTC-12.
+Note: All deadlines are 23:59 UTC-12.
 
 - **Call for paper:** 19 June
 - **Evaluation script and data release for known domains (shared task):**  24 June
