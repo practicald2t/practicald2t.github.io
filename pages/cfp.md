@@ -59,7 +59,7 @@ NOTE: All deadlines are 23:59 UTC-12.
 
 # Submission
 
-We welcome two types of papers: regular workshop papers and non-archival submissions. Regular workshop papers will be included in the workshop proceedings. Papers should use the INLG templates. The page counts exclude references and appendices. All submissions will be given one extra page of space to address reviewers’ comments.
+We welcome two types of papers: regular workshop papers and non-archival submissions. Regular workshop papers will be included in the workshop proceedings. The page counts exclude references and appendices. All submissions will be given one extra page of space to address reviewers’ comments.
 
 - **Long papers**: *up to eight (8) pages* describing substantial, completed work, with concrete evaluation wherever appropriate.
 - **Short papers**: *up to four (4) pages of content*. Short papers may describe preliminary contributions, negative results, opinion pieces, or a small set of interesting results.
