@@ -46,7 +46,7 @@ At the workshop, we will present results and insights of our evaluation: how eve
 # Important dates
 NOTE: All deadlines are 23:59 UTC-12.
 
-- **Call for paper:**  $TODO June
+- **Call for paper:** 19 June
 - **Evaluation script and data release for known domains (shared task):**  24 June
 - **Regular paper submission (main & special track, archival & non-archival):** 22 July
 - **Known domains system output submission & surprise domain data release:** 29 July
