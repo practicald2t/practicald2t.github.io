@@ -12,7 +12,7 @@ layout: default
 </div>
 
 # Contacts
-For any query, contact us at [practicald2t@googlegroups.com](mailto:practicald2t@googlegroups.com)
+For any query, contact us at [d2t2024@googlegroups.com](mailto:practicald2t@googlegroups.com)
 If you have any problem with the above mail group, contact [balloccu@ufal.mff.cuni.cz](balloccu@ufal.mff.cuni.cz)
 
 ## Organizers
