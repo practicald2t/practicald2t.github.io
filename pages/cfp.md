@@ -67,6 +67,7 @@ We welcome two types of papers: regular workshop papers and non-archival submiss
   1. Best output (textual summaries produced by their system)
   2. Results of our evaluation script
   3. Eventual custom evaluation results, along with the modified script and every element (i.e. model checkpoint) necessary to run it
+  4. System description (1+ page)
 
 
 <!---
@@ -75,9 +76,10 @@ Participants will send their submission through $TODO_CODALAB_EMAIL_OR_BOTH_? wi
 ### Submission procedure and templates
 For the main and special track, please submit short and long papers directly through the [INLG submission portal](https://softconf.com/n/inlg2024/user/scmd.cgi?scmd=submitNew), selecting "Click HERE to make a new Practical Data-to-Text submission". 
 Choose the appropriate *submission type* (Long/Short Paper), *track* (Main/Neuro-Symbolic D2T) and *Proceedings Type* (Archival/Non-Archival).
-Submissions must follow the submission template and guidelines issued by INLG 2024.
 
 For the shared task, submission details will be released soon.
+
+All submissions must follow the submission template and guidelines issued by INLG 2024.
 
 <!---Participants of the shared task will send their submission through $TODO_CODALAB_EMAIL_OR_BOTH_? with the subject "[Submission] {title of your work}" before the submission deadline (see below)--->
 
