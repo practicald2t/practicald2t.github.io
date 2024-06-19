@@ -54,7 +54,7 @@ NOTE: All deadlines are 23:59 UTC-12.
 - **System description submission (shared task):** 12 August
 - **Notification of acceptance (main, special track and shared task):**  19 August
 - **Camera-ready (main, special track and shared task):**  28 August
-- **Workshop:** 23/24 September (to be decided)
+- **Workshop:** 23/24 September at INLG, Tokyo, Japan(to be decided)
 
 
 # Submission
