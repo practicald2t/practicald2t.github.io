@@ -17,7 +17,7 @@ Natural Language Generation (NLG) has been an active area of research for decade
 
 The recently introduced instruction-tuned, multi-task Large Language Models (LLMs) promise to become a viable alternative to rule-based D2T systems. They exhibit the ability to capture knowledge, follow instructions, and produce coherent text from various domains (Sanh et al., 2021; Ouyang et al., 2022). However, even the best LLMs still suffer from well-known issues of neural models, such as lack of controllability and risk of producing harmful text. Recent research thus proposed various approaches to improve the semantic accuracy of LLMs D2T, including prompt tuning (Lee et al., 2022; Ye and Durrett, 2022), targeted fine-tuning (Zhang et al., 2024), Retrieval Augmented Generation (RAG) (Jiang et al., 2023; Chen et al., 2024), external tool integration (Wang et al., 2024), and neuro-symbolic approaches (Sarker et al, 2021; Hitzler et al., 2022).
 
-Motivated by this development, Practical D2T 2024 aims to build a space for researchers to discuss and present innovative work on D2T systems using LLMs. Building upon the 2023 edition’s hackathon, Practical D2T 2024 opens up a broader range of activities, including a special track for neuro-symbolic D2T approaches and a shared task in D2T evaluation focused on semantic accuracy.
+Practical D2T 2024 aims to build a space for researchers to discuss and present innovative work on D2T systems using LLMs. Building upon the 2023 edition’s hackathon, Practical D2T 2024 opens up a broader range of activities, including a special track for neuro-symbolic D2T approaches and a shared task in D2T evaluation focused on semantic accuracy.
 
 # News
 
