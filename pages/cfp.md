@@ -108,7 +108,7 @@ Should you have any other question, feel free to contact the organisers.
 
 ## Acknowledgments
 <p>Funded by the European Union (ERC, NG-NLG, 101039303)</p>
-<img src="assets/images/erc.png" style="max-width: 300px;" alt="ERC">
+<img src="../assets/images/erc.png" style="max-width: 300px;" alt="ERC">
 
 <hr>
 <div class="footer">
