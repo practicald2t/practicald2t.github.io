@@ -43,7 +43,7 @@ Suggested LLMs are Llama3, Phi3, Qwen2, and Mistral, or provide their own custom
 
 At the workshop, we will present results and insights of our evaluation: how every script works on different system outputs, and how they correlate with human annotators. The system reaching the highest correlation with humans will be declared winner of the competition. Results and participants’ system descriptions will be featured in the workshop proceedings. 
 
-Find more info in the shared task's [FAQs](#faq).
+Find more info in the shared task's [page](https://practicald2t.github.io/pages/shared_task).
 
 # Important dates
 Note: All deadlines are 23:59 UTC-12.
@@ -89,22 +89,6 @@ We allow multiple submissions for non-archival work.
 
 ### Optional Supplementary Materials: Appendices, Software and Data
 Additionally, supplementary materials can be added in an appendix. Should you make any software or data available within the paper, these need to be fully anonymised.
-
-# FAQ for the shared task
-<a name="faq"></a>
-<span style="color: #276275;">**Q:** Where does the shared task dataset come from?</span>  
-<span style="color: #276275;">**A:**</span> Our dataset is sourced by querying existing open APIs to retrieve tabular data across various domains (like weather, sports results etc). We adopt this approach as LLMs potentially met this kind of data during pre-training/RL. We query very recent data tables to minimise the risk of data contamination.
-
-<span style="color: #276275;">**Q:** Can I use my custom model (e.g. fine-tuned, architectural changes etc) if it is not among the suggested ones?</span>  
-<span style="color: #276275;">**A:**</span> As we will have to re-run every custom evaluation against all participants' submitted outputs, we aim to do it in the most painless way possible. If you plan to submit an evaluation script using a custom model, please send us model checkpoints (HuggingFace format) and make your script compatible with Pytorch and Ollama (versions to be announced). Generally, we should be able just to run your evaluation script and get the results. 
-
-<span style="color: #276275;">**Q:** How big can the model I will use for custom evaluation be?</span>  
-<span style="color: #276275;">**A:**</span> Your model should be able to run on an NVidia A100 or A40 (48GB VRAM). The use of quantisation is allowed, but this should, again, be set up by you in the script you will submit.
-
-<span style="color: #276275;">**Q:** I want to develop a neurosymbolic D2T system/evaluation script for the shared task. Can I?</span>  
-<span style="color: #276275;">**A:**</span> Yes! In light of our workshop's interest in neuro-symbolic D2T, participants of the shared task are welcome to include symbolic knowledge, intermediate representations etc. Please remember that you still need to adhere to the above points.
-
-Should you have any other question, feel free to contact the organisers.
 
 ## Acknowledgments
 <p>Funded by the European Union (ERC, NG-NLG, 101039303)</p>
