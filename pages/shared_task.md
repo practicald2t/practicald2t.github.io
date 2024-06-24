@@ -22,7 +22,7 @@ Practical D2T 2024 features a shared task on improving semantic accuracy of D2T 
 This data (from now on referred to as "known domain data") can be downloaded from [here](https://practicald2t.github.io/assets/shared_task_data/known_domains.zip). The dataset is sourced from public APIs, to limit potential previous exposure to the used LLMs. Each domain contains a dev and a test set.
 
 ## Phase 1: System development
-**Deadline: ** 29 July AoE
+**Deadline:** 29 July AoE
 During this phase, use the known domain data to develop and evaluate your LLM-assisted D2T system. 
 For evaluation, we will provide an initial scripts that prompts LLM to evaluate a series of measures, including fluency and semantic accuracy.
 **The evaluation script will be provided soon. Meanwhile, you can start working on your system by using the provided dataset.** 
@@ -39,7 +39,7 @@ You can provide your own custom model checkpoints (along with details on the mod
 Once you have finalized your system, submit your best output, evaluation results and eventual modified evaluation script. 
 
 ## Phase 2: Output submission and surprise domain evaluation
-**Deadline: ** 5 Aug AoE
+**Deadline:** 5 Aug AoE
 Upon submission, you will receive an additional test-set covering a surprise domain, to test the robustness of your system/evaluation. You will have one week to send back you system's outputs on the new test-set. If you developed a custom evaluation (i.e. modifying the script), you must provide results for both the initial and modified scripts.
 
 ## Phase 3: Final automatic and human evaluation
