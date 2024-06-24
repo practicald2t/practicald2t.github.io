@@ -19,7 +19,7 @@ Practical D2T 2024 features a shared task on improving semantic accuracy of D2T 
 - ice_hockey: sport results (specifically hockey) - 
 - owid: time-series covering data from misc. origins - 
 
-This data (from now on referred to as "known domain data") can be downloaded from [here]([https://practicald2t.github.io/assets/shared_task_data.zip](https://practicald2t.github.io/assets/shared_task_data/known_domains.zip)). The dataset is sourced from public APIs, to limit potential previous exposure to the used LLMs. Each domain contains a dev and a test set.
+This data (from now on referred to as "known domain data") can be downloaded from [here](https://practicald2t.github.io/assets/shared_task_data/known_domains.zip). The dataset is sourced from public APIs, to limit potential previous exposure to the used LLMs. Each domain contains a dev and a test set.
 
 ## Phase 1: System development
 **Deadline: ** 29 July AoE
