@@ -32,7 +32,8 @@ For this shared task, we provide a new dataset (the "known domain data") with re
 You can download the dataset from [here].(https://practicald2t.github.io/assets/shared_task_data/known_domains.zip). Each domain contains a dev and a test set.
 
 ## Phase 1: System development
-**Deadline:** 29 July 2024 AoE
+**Deadline:** 29 July 2024 23:59 AoE
+
 During this phase, use the known domain data to develop and evaluate your LLM-assisted D2T system. For evaluation, we will provide an initial script that prompts LLM to perform error span annotation, as a proxy for semantic accuracy.
 
 **The evaluation script will be provided soon. Meanwhile, you can start working on your system by using the known domain data.** 
@@ -44,6 +45,7 @@ Suggested LLMs are:
 - Phi3
 - Qwen2
 - Mistral
+
 You can provide your own custom model checkpoints (along with details on the model characteristics), as long as the format is compatible with the aforementioned ones. Find more info about this in [FAQs](#faq). Every participant can provide up to **one** custom evaluation script. **You are not allowed to alter the output format of our evaluation script, as it is necessary to keep it fixed to make it comparable across different participants.**
 
 Once you have finalized your system, you must submit:
@@ -52,7 +54,8 @@ Once you have finalized your system, you must submit:
 - The eventual modified evaluation script you produced
 
 ## Phase 2: Output submission and surprise domain evaluation
-**Deadline:** 5 Aug AoE
+**Deadline:** 5 Aug  2024 23:59 AoE
+
 Upon submission, you will receive an additional test-set covering a surprise domain, to test the robustness of your system/evaluation. You will have one week to send back you system's outputs on the new test-set. If you developed a custom evaluation (i.e. modifying the script), you must provide results for both the initial and modified scripts.
 
 ## Phase 3: Final automatic and human evaluation
