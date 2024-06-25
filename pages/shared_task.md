@@ -31,6 +31,9 @@ For this shared task, we provide a new dataset (the "known domain data") with re
 
 You can download the dataset from [here](https://practicald2t.github.io/assets/shared_task_data/known_domains.zip). Each domain contains a dev and a test set.
 
+## Expression of interest in participating
+If you wish to take part in the shared task, send an email to [d2t2024@googlegroups.com](d2t2024@googlegroups.com), with object "Shared Task Participation", and let us know the list of members of your team (name, surname and affiliation), and a team name.
+
 ## Phase 1: System development
 **Deadline:** 29 July 2024 23:59 AoE
 
