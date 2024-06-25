@@ -34,7 +34,7 @@ This year will feature a shared task on improving semantic accuracy of D2T syste
 
 We encourage participants to focus on system robustness and objective evaluation, rather than metrics scores. The shared task will adopt the following protocol:
 
-1. **Development and evaluation on known domains:** we will release a dataset covering four (4) D2T domains, on which participants will base the development of their system. For evaluation, we will provide an initial script that uses LLMs to assess criteria like semantic accuracy and fluency.
+1. **Development and evaluation on known domains:** we will release a dataset covering four (4) D2T domains, on which participants will base the development of their system. For evaluation, we will provide an initial script that prompts LLM to perform error span annotation, as a proxy for semantic accuracy.
 2. **Variation of the evaluation script:** the script we will provide can be customised with different LLMs and prompts. Participants are encouraged to modify/improve the script to explore different evaluation methodologies.
 Suggested LLMs are Llama3, Phi3, Qwen2, and Mistral, or provide their own custom model checkpoints (along with details on the model characteristics), as long as the format is compatible with the aforementioned ones.
 3. **Output submission and surprise domain evaluation:** participants will submit their best output, evaluation results and eventual modified evaluation script. Upon submission, they will receive an additional test-set covering a surprise domain, to test the robustness of their system/evaluation. Participants will have one week to send back their outputs on the new test-set.
