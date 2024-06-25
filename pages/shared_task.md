@@ -76,7 +76,7 @@ For your participation to be valid, you will need to submit your
 
 Submissions must be sent to [d2t2024@googlegroups.com](mailto:d2t2024@googlegroups.com), with object "$TEAM submission known" and "$TEAM submission surprise" for the known domain and surprise domain respectively. $TEAM is your chosen team name. System description must follow the submission template and guidelines issued by INLG 2024.
 
-# FAQ for the shared task
+# FAQs
 <a name="faq"></a>
 <span style="color: #276275;">**Q:** Where does the shared task dataset come from?</span>  
 <span style="color: #276275;">**A:**</span> Our dataset is sourced by querying existing open APIs to retrieve tabular data across various domains. We adopt this approach as LLMs potentially met this kind of data during pre-training/RL. We query very recent data tables to minimise the risk of data contamination.
