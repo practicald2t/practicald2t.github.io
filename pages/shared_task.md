@@ -29,7 +29,7 @@ For this shared task, we provide a new dataset (the "known domain data") with re
 - **ice_hockey**: sport results (specifically hockey)
 - **owid**: time-series covering data from misc. origins 
 
-You can download the dataset from [here].(https://practicald2t.github.io/assets/shared_task_data/known_domains.zip). Each domain contains a dev and a test set.
+You can download the dataset from [here](https://practicald2t.github.io/assets/shared_task_data/known_domains.zip). Each domain contains a dev and a test set.
 
 ## Phase 1: System development
 **Deadline:** 29 July 2024 23:59 AoE
@@ -68,7 +68,7 @@ For your participation to be valid, you will need to submit your
   1. Best output (textual summaries produced by their system)
   2. Results of our evaluation script (error annotation for all the produced summaries across all test-sets)
   3. Eventual custom evaluation results, along with the modified script and every element (i.e. model checkpoint) necessary to run it
-  4. System description (1+ page)
+  4. System description (up to 4 page)
 
 Your system description must follow the submission template and guidelines issued by INLG 2024.
 
