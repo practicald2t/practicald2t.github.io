@@ -15,7 +15,7 @@ layout: default
 Practical D2T 2024 features a shared task on improving semantic accuracy of D2T systems. The shared task requires three main efforts from you:
 
 1. Build your own LLM-assisted D2T system, which takes structured data as input (e.g. weather data), and produces a summary of it as output.
-2. Use LLMs to perform error annotation on the summaries produced by your system. This means annotating the span of texts containing errors, specifying the type of error and the reason why the span was flagged. We will provide a starting code for this (more info below).
+2. Use LLMs to perform error annotation on the summaries produced by your system. This means annotating the spans of text containing errors, specifying the type of error and the reason why the span was flagged. We will provide a starting code for this (more info below).
 3. (*optional*) Modify our starting code to create your custom evaluation. For example, you may:
    - Explore other types of errors
    - Use a different LLM
