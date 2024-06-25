@@ -20,7 +20,8 @@ The recently introduced instruction-tuned, multi-task Large Language Models (LLM
 Practical D2T 2024 aims to build a space for researchers to discuss and present innovative work on D2T systems using LLMs. Building upon the 2023 edition’s hackathon, Practical D2T 2024 opens up a broader range of activities, including a special track for neuro-symbolic D2T approaches and a shared task in D2T evaluation focused on semantic accuracy.
 
 # News
-
+- 25/06/2024: Known domain data for the shared task is [online](https://practicald2t.github.io/pages/shared_task)!
+- 20/06/2024: Call for paper is [online](https://practicald2t.github.io/pages/cfp)!
 - 19/06/2024: the official Practical D2T 2024 website for is online!
 
 # Invited Talks
