@@ -24,7 +24,7 @@ This data (from now on referred to as "known domain data") can be downloaded fro
 ## Phase 1: System development
 **Deadline:** 29 July AoE
 During this phase, use the known domain data to develop and evaluate your LLM-assisted D2T system. 
-For evaluation, we will provide an initial scripts that prompts LLM to evaluate a series of measures, including fluency and semantic accuracy.
+For evaluation, we will provide an initial script that prompts LLM to perform error span annotation, as a proxy for semantic accuracy.
 **The evaluation script will be provided soon. Meanwhile, you can start working on your system by using the provided dataset.** 
 
 ### Variation of the evaluation script 
