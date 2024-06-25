@@ -16,10 +16,7 @@ Practical D2T 2024 features a shared task on improving semantic accuracy of D2T 
 
 1. Build your own LLM-assisted D2T system, which takes structured data as input (e.g. weather data), and produces a summary of it as output.
 2. Use LLMs to perform error annotation on the summaries produced by your system. This means annotating the spans of text containing errors, specifying the type of error and the reason why the span was flagged. We will provide a starting code for this (more info below).
-3. (*optional*) Modify our starting code to create your custom evaluation. For example, you may:
-   - Explore other types of errors
-   - Use a different LLM
-   - Experiment with prompt engineering 
+3. (*optional*) Modify our starting code to create your custom evaluation.
 
 ### The data
 For this shared task, we provide a new dataset (the "known domain data") with recent data (in the form of JSONs and CSVs) from four domains:
@@ -42,7 +39,11 @@ During this phase, use the known domain data to develop and evaluate your LLM-as
 **The evaluation script will be provided soon. Meanwhile, you can start working on your system by using the known domain data.** 
 
 ### Variation of the evaluation script 
-Our script can be customised to variate the use LLMs, prompts, errors, annotation attributes and more. We encourage you to modify/improve the script to explore different evaluation methodologies.
+Our script can be customised to vary the used LLMs, prompts, errors, annotation attributes and more. We encourage you to modify/improve the script to explore different evaluation methodologies. For example, you may:
+- Explore other types of errors
+- Use a different LLM
+- Experiment with prompt engineering 
+
 Suggested LLMs are:
 - Llama3
 - Phi3
@@ -73,7 +74,7 @@ For your participation to be valid, you will need to submit your
   3. Eventual custom evaluation results, along with the modified script and every element (i.e. model checkpoint) necessary to run it
   4. System description (up to 4 page)
 
-Your system description must follow the submission template and guidelines issued by INLG 2024.
+Submissions must be sent to [d2t2024@googlegroups.com](mailto:d2t2024@googlegroups.com), with object "$TEAM submission known" and "$TEAM submission surprise" for the known domain and surprise domain respectively. $TEAM is your chosen team name. System description must follow the submission template and guidelines issued by INLG 2024.
 
 # FAQ for the shared task
 <a name="faq"></a>
