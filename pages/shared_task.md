@@ -26,7 +26,8 @@ For this shared task, we provide a new dataset (the "known domain data") with re
 - **ice_hockey**: sport results (specifically hockey)
 - **owid**: time-series covering data from misc. origins 
 
-### You can download the dataset from [here](https://practicald2t.github.io/assets/shared_task_data/known_domains.zip). Each domain contains a dev and a test set.
+### You can download the dataset from [here](https://practicald2t.github.io/assets/shared_task_data/known_domains.zip). 
+Each domain contains a dev-set (100 examples) and a test-set (50 examples).
 
 ## Expression of interest in participating
 If you wish to take part in the shared task, send an email to [d2t2024@googlegroups.com](mailto:d2t2024@googlegroups.com), with object "Shared Task Participation", and let us know the list of members of your team (name, surname and affiliation), and a team name.
@@ -34,7 +35,7 @@ If you wish to take part in the shared task, send an email to [d2t2024@googlegro
 ## Phase 1: System development
 **Deadline:** 29 July 2024 23:59 AoE
 
-During this phase, use the known domain data to develop and evaluate your LLM-assisted D2T system. For evaluation, we will provide an initial script that prompts LLM to perform error span annotation, as a proxy for semantic accuracy.
+During this phase, use the known domain data to develop and evaluate your LLM-assisted D2T system. For evaluation, we will provide an initial script that prompts LLM to perform error span annotation, as a proxy for semantic accuracy. You must develop your system on the dev-set and evaluate it on the test-set.
 
 **The evaluation script will be provided soon. Meanwhile, you can start working on your system by using the known domain data.** 
 
@@ -56,6 +57,8 @@ Once you have finalized your system, you must submit:
 - Your best output
 - Evaluation results (both our original one and any custom one you may implement)
 - The eventual modified evaluation script you produced
+
+All your submissions should be on the test-set only. We will keep an updated leaderboard on this webpage, with an overview of all teams' results. You can submit multiple times while you improve your system, but only the last one you send will be considered.
 
 ## Phase 2: Output submission and surprise domain evaluation
 **Deadline:** 5 Aug  2024 23:59 AoE
