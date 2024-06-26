@@ -48,15 +48,22 @@ Find more info in the shared task's [page](https://practicald2t.github.io/pages/
 # Important dates
 Note: All deadlines are 23:59 UTC-12.
 
-- **Call for paper:** 19 June
-- **Evaluation script and data release for known domains (shared task):**  24 June
-- **Regular paper submission (main & special track, archival & non-archival):** 22 July
-- **Known domains system output submission & surprise domain data release:** 29 July
-- **Surprise domain system outputs submission:** 5 August
-- **System description submission (shared task):** 12 August
-- **Notification of acceptance (main, special track and shared task):**  19 August
-- **Camera-ready (main, special track and shared task):**  28 August
+Main and special track:
+- **First call for paper:** 20 June
+- <span style="color: #276275;">**Regular paper submission:** 22 July</span>
+- **Notification of acceptance:**  19 August
+- **Camera-ready:**  28 August
 - **Workshop:** 23/24 September at INLG, Tokyo, Japan (to be decided)
+
+
+Shared task:
+- **Evaluation script and data release for known domains (shared task):**  24 June
+- <span style="color: #276275;">**Known domains system output submission & surprise domain data release:** 29 July</span>
+- <span style="color: #276275;">**Surprise domain system outputs submission:** 5 August</span>
+- <span style="color: #276275;">**System description submission (shared task):** 12 August</span>
+- **Notification of acceptance:**  19 August
+- **Camera-ready:**  28 August
+
 
 
 # Submission
