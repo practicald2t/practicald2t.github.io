@@ -22,15 +22,41 @@ Practical D2T 2024 aims to build a space for researchers to discuss and present 
 # Important dates
 Note: All deadlines are 23:59 UTC-12.
 
-- **Call for paper:** 19 June
+Main and special track:
+- **First call for paper:** 20 June
+- ### **Regular paper submission:** 22 July
+- **Notification of acceptance:**  19 August
+- **Camera-ready:**  28 August
+
+Shared task:
 - **Evaluation script and data release for known domains (shared task):**  24 June
-- **Regular paper submission (main & special track, archival & non-archival):** 22 July
+- ### **Known domains system output submission & surprise domain data release:** 29 July
+- ### **Surprise domain system outputs submission:** 5 August
+- ### **System description submission (shared task):** 12 August
+- **Notification of acceptance:**  19 August
+- **Camera-ready:**  28 August
+
+- **Workshop:** 23/24 September at INLG, Tokyo, Japan (to be decided)
+
+
+<!--
+
+# Important dates
+Note: All deadlines are 23:59 UTC-12.
+
+- **First call for paper:** 20 June
+- **Evaluation script and data release for known domains (shared task):**  24 June
 - **Known domains system output submission & surprise domain data release:** 29 July
+- ### **Regular paper submission:** 22 July
 - **Surprise domain system outputs submission:** 5 August
 - **System description submission (shared task):** 12 August
-- **Notification of acceptance (main, special track and shared task):**  19 August
-- **Camera-ready (main, special track and shared task):**  28 August
+- **Notification of acceptance:**  19 August
+- **Camera-ready:**  28 August
 - **Workshop:** 23/24 September at INLG, Tokyo, Japan (to be decided)
+
+
+-->
+
 
 # News
 - 25/06/2024: Known domain data for the shared task is [online](https://practicald2t.github.io/pages/shared_task)!
