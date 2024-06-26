@@ -24,20 +24,19 @@ Note: All deadlines are 23:59 UTC-12.
 
 Main and special track:
 - **First call for paper:** 20 June
-- ### **Regular paper submission:** 22 July
+- <span style="color: #276275;">**Regular paper submission:** 22 July</span>
 - **Notification of acceptance:**  19 August
 - **Camera-ready:**  28 August
+- **Workshop:** 23/24 September at INLG, Tokyo, Japan (to be decided)
+
 
 Shared task:
 - **Evaluation script and data release for known domains (shared task):**  24 June
-- ### **Known domains system output submission & surprise domain data release:** 29 July
-- ### **Surprise domain system outputs submission:** 5 August
-- ### **System description submission (shared task):** 12 August
+- <span style="color: #276275;">**Known domains system output submission & surprise domain data release:** 29 July</span>
+- <span style="color: #276275;">**Surprise domain system outputs submission:** 5 August</span>
+- <span style="color: #276275;">**System description submission (shared task):** 12 August</span>
 - **Notification of acceptance:**  19 August
 - **Camera-ready:**  28 August
-
-- **Workshop:** 23/24 September at INLG, Tokyo, Japan (to be decided)
-
 
 <!--
 
