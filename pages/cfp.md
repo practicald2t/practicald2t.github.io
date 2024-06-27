@@ -53,7 +53,7 @@ Main and special track:
 - <span style="color: #276275;">**Regular paper submission:** 22 July</span>
 - **Notification of acceptance:**  19 August
 - **Camera-ready:**  28 August
-- **Workshop:** 23/24 September at INLG, Tokyo, Japan (to be decided)
+- **Workshop:** 24 September @INLG 2024, Tokyo, Japan
 
 
 Shared task:
