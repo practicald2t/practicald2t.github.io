@@ -27,7 +27,7 @@ Main and special track:
 - <span style="color: #276275;">**Regular paper submission:** 22 July</span>
 - **Notification of acceptance:**  19 August
 - **Camera-ready:**  28 August
-- **Workshop:** 24 September @INLG 2024, Tokyo, Japan
+- **Workshop:** 23 September @INLG 2024, Tokyo, Japan
 
 
 Shared task:
@@ -58,6 +58,7 @@ Note: All deadlines are 23:59 UTC-12.
 
 
 # News
+- 28/06/2024: We now have a date! Practical D2T 2024 will be on 23 September @INLG 2024, Tokyo, Japan!
 - 25/06/2024: Known domain data for the shared task is [online](https://practicald2t.github.io/pages/shared_task)!
 - 20/06/2024: Call for paper is [online](https://practicald2t.github.io/pages/cfp)!
 - 19/06/2024: the official Practical D2T 2024 website for is online!
