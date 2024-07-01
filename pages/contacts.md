@@ -12,7 +12,8 @@ layout: default
 </div>
 
 # Contacts
-For any query, contact us at [d2t2024@googlegroups.com](mailto:practicald2t@googlegroups.com)
+For any query, email us [d2t2024@googlegroups.com](mailto:practicald2t@googlegroups.com) or contact us at [d2t2024 Google Groups forum](https://groups.google.com/g/d2t2024).
+
 If you have any problem with the above mail group, contact [balloccu@ufal.mff.cuni.cz](balloccu@ufal.mff.cuni.cz)
 
 ## Organizers
