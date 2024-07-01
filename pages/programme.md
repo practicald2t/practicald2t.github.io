@@ -14,7 +14,9 @@ layout: default
 
 # Workshop Programme
 
-To be announced.
+The workshop will be held on September 23rd in Tokyo at INLG 2024. 
+
+The details are to be announced.
 
 
 <hr>
