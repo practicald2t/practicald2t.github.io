@@ -12,7 +12,7 @@ layout: default
 </div>
 
 # Shared task
-Practical D2T 2024 features a shared task on improving semantic accuracy of D2T systems. The shared task requires three main efforts from you:
+Practical D2T 2024 features a shared task on improving the semantic accuracy of D2T systems. The shared task requires three main efforts from you:
 
 1. Build your own LLM-assisted D2T system, which takes structured data as input (e.g. weather data), and produces a summary of it as output.
 2. Use LLMs to perform error annotation on the summaries produced by your system. This means annotating the spans of text containing errors, specifying the type of error and the reason why the span was flagged. We will provide a starting code for this (more info below).
@@ -21,21 +21,27 @@ Practical D2T 2024 features a shared task on improving semantic accuracy of D2T 
 ### The data
 For this shared task, we provide a new dataset (the "known domain data") with recent data (in the form of JSONs and CSVs) from four domains:
 
-- **openweather**: weather data 
-- **gsmarena**: product descriptions (specifically smartphone specs)
-- **ice_hockey**: sport results (specifically hockey)
-- **owid**: time-series covering data from misc. origins 
+- **openweather**: weather data,
+- **gsmarena**: product descriptions (specifically smartphone specs),
+**ice_hockey**: sports results (specifically hockey),
+- **owid**: time-series covering data from miscellaneous origins.
 
 ### You can download the dataset from [here](https://practicald2t.github.io/assets/shared_task_data/known_domains.zip). 
-Each domain contains a dev-set (100 examples) and a test-set (50 examples).
+Each domain contains a dev set (100 examples) and a test set (50 examples).
 
 ## Expression of interest in participating
 If you wish to take part in the shared task, send an email to [d2t2024@googlegroups.com](mailto:d2t2024@googlegroups.com), with object "Shared Task Participation", and let us know the list of members of your team (name, surname and affiliation), and a team name.
 
+Optionally, you may want to join also the public Google group https://groups.google.com/g/public-d2t2024/ where we will share news and you may post FAQs. 
+
 ## Phase 1: System development
 **Deadline:** 29 July 2024 23:59 AoE
 
-During this phase, use the known domain data to develop and evaluate your LLM-assisted D2T system. For evaluation, we will provide an initial script that prompts LLM to perform error span annotation, as a proxy for semantic accuracy. You must develop your system on the dev-set and evaluate it on the test-set.
+During this phase, use the known domain data to develop and evaluate your LLM-assisted D2T system. For evaluation, we will provide an initial script that prompts LLM to perform error span annotation, as a proxy for semantic accuracy. You must develop your system on the dev set and evaluate it on the test set.
+
+## Evaluation script and the baseline
+
+**[See the dedicated page of how we evaluated the baseline LLM outputs using _factgenie_](/pages/shared_task_evaluation_script)!**
 
 **The evaluation script will be provided soon. Meanwhile, you can start working on your system by using the known domain data.** 
 
@@ -58,26 +64,26 @@ Once you have finalized your system, you must submit:
 - Evaluation results (both our original one and any custom one you may implement)
 - The eventual modified evaluation script you produced
 
-All your submissions should be on the test-set only. We will keep an updated leaderboard on this webpage, with an overview of all teams' results. You can submit multiple times while you improve your system, but only the last one you send will be considered.
+All your submissions should be on the test set only. We will keep an updated leaderboard on this webpage, with an overview of all teams' results. You can submit multiple times while you improve your system, but only the last one you send will be considered.
 
 ## Phase 2: Output submission and surprise domain evaluation
 **Deadline:** 5 Aug  2024 23:59 AoE
 
-Upon submission, you will receive an additional test-set covering a surprise domain, to test the robustness of your system/evaluation. You will have one week to send back you system's outputs on the new test-set. If you developed a custom evaluation (i.e. modifying the script), you must provide results for both the initial and modified scripts.
+Upon submission, you will receive an additional test set covering a surprise domain, to test the robustness of your system/evaluation. You will have one week to send back your system's outputs on the new test set. If you developed a custom evaluation (i.e. modifying the script), you must provide results for both the initial and modified scripts.
 
 ## Phase 3: Final automatic and human evaluation
 Once we receive all submissions, we will evaluate every received output against every received evaluation script. This means that, if you submit a custom evaluation script, you will be able to know how it performs on other participants' systems.
 
-Finally, we will run a human evaluation, asking annotators to perform error annotation on all summaries from all participants. We will correlate human judgements against all the available automatic evaluations. At the workshop, we will present results and insights of our evaluation: how every script works on different system outputs, and how they correlate with human annotators. The system reaching the highest correlation with humans will be declared winner of the competition. Results and participants’ system descriptions will be featured in the workshop proceedings. 
+Finally, we will run a human evaluation, asking annotators to perform error annotation on all summaries from all participants. We will correlate human judgments against all the available automatic evaluations. At the workshop, we will present the results and insights of our evaluation: how every script works on different system outputs, and how they correlate with human annotators. The system reaching the highest correlation with humans will be declared the winner of the competition. Results and participants’ system descriptions will be featured in the workshop proceedings. 
 
 # Submission
 For your participation to be valid, you will need to submit your
   1. Best output (textual summaries produced by their system)
-  2. Results of our evaluation script (error annotation for all the produced summaries across all test-sets)
+  2. Results of our evaluation script (error annotation for all the produced summaries across all test sets)
   3. Eventual custom evaluation results, along with the modified script and every element (i.e. model checkpoint) necessary to run it
-  4. System description (up to 4 page)
+  4. System description (up to 4 pages)
 
-Submissions must be sent to [d2t2024@googlegroups.com](mailto:d2t2024@googlegroups.com), with object "$TEAM submission known" and "$TEAM submission surprise" for the known domain and surprise domain respectively. $TEAM is your chosen team name. System description must follow the submission template and guidelines issued by INLG 2024.
+Submissions must be sent to [d2t2024@googlegroups.com](mailto:d2t2024@googlegroups.com), with object "$TEAM submission known" and "$TEAM submission surprise" for the known domain and surprise domain respectively. $TEAM is your chosen team name. The system description must follow the submission template and guidelines issued by INLG 2024.
 
 # FAQs
 <a name="faq"></a>
@@ -93,7 +99,7 @@ Submissions must be sent to [d2t2024@googlegroups.com](mailto:d2t2024@googlegrou
 <span style="color: #276275;">**Q:** I want to develop a neurosymbolic D2T system/evaluation script for the shared task. Can I?</span>  
 <span style="color: #276275;">**A:**</span> Yes! In light of our workshop's interest in neuro-symbolic D2T, participants of the shared task are welcome to include symbolic knowledge, intermediate representations etc. Please remember that you still need to adhere to the above points.
 
-Should you have any other question, feel free to contact the organisers.
+Should you have any other questions, feel free to contact the organisers.
 
 ## Acknowledgments
 <p>Funded by the European Union (ERC, NG-NLG, 101039303)</p>

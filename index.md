@@ -58,10 +58,12 @@ Note: All deadlines are 23:59 UTC-12.
 
 
 # News
+- 04/07/2024: [Evaluation script is released together with baseline outputs and instructions how to use it!](/pages/shared_task_evaluation_script) on how to use it with the released data!
+- 01/07/2024: We created a public Google group https://groups.google.com/g/public-d2t2024/ where you can follow the news and get technical feedback. For private matters see the [/contacts page](https://practicald2t.github.io/pages/contacts).
 - 28/06/2024: We now have a date! Practical D2T 2024 will be on 23 September @INLG 2024, Tokyo, Japan!
 - 25/06/2024: Known domain data for the shared task is [online](https://practicald2t.github.io/pages/shared_task)!
 - 20/06/2024: Call for paper is [online](https://practicald2t.github.io/pages/cfp)!
-- 19/06/2024: the official Practical D2T 2024 website for is online!
+- 19/06/2024: the official Practical D2T 2024 website is online!
 
 # Invited Talks
 
