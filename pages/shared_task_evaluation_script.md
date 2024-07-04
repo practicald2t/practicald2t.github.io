@@ -4,7 +4,7 @@ layout: default
  <div class="forms-container">
 
  <div class="forms">
-    <img src="assets/images/github-logo.png">
+    <img src="../assets/images/github-logo.png" alt="github logo">
     <a href="https://github.com/kasnerz/factgenie/">
     <p style="font-size: large">Factgenie Toolking for Annotating and Visualizing LLM Hallucinations</p>
     </a>
@@ -25,7 +25,7 @@ layout: default
 _Before we start. Let's look at running _factgenie_ instance deployed at:
 
 <a href="https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&split=dev&example_idx=0">
-    https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&split=dev&example_idx=0 </br>
+    https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&split=dev&example_idx=0 <br/>
     <img src="../assets/images/factgenie_eval_script/factgenie_st24_openweather_dev_llama3_annotation.png" alt="Example from deployed factgenie toolkit at the address https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&split=dev&example_idx=0">
 </a>
 
@@ -49,4 +49,17 @@ factgenie run-llm-eval \
 2. [(Optionally) Look at how we added the shared [task datasets](https://github.com/kasnerz/factgenie/pull/35#issue-2384606283) in the section `How to evaluate the existing outputs?`
 3. At the same [PR](https://github.com/kasnerz/factgenie/pull/35#issue-2384606283) look at the section `How to evaluate the existing outputs?` and learn how to run the `factgenie run-llm-eval` command
 4. Finally, look how you can add your model outputs to factgenie so you can run `factgenie run-llm-eval` on your model output. Here is [the example](https://github.com/kasnerz/factgenie/pull/35/files#r1665339740) for _mistral_ model.
-    For your outputs by your `awesome_model` which you used to generate outputs for `st24-gsmarena` `dev` split you need to create file  `factgenie/outputs/st24-gsmarena/dev/awesome_model.json` with the [structure described in the example](factgenie/outputs/st24-gsmarena/dev/mistral.json).
+    For your outputs by your `awesome_model` which you used to generate outputs for `st24-gsmarena` `dev` split you need to create file  `factgenie/outputs/st24-gsmarena/dev/awesome_model.json` with the [structure described in the example](factgenie/outputs/st24-gsmarena/dev/mistral.json):
+
+    The following structure is required for the LLM output file
+
+    ```
+    {
+        "setup" {
+            "id": "mistral",
+            "model": "mistral"
+        },
+        "generated": [{"out": "first llm output}, {"out": "second llm output"}, ..., {"out": "Last llm output"}]
+    }
+    ```
+    The rest of the fields are ignored by _factgenie_. In this case, the rest of the fields were used by https://github.com/kasnerz/quintd to generate the `mistral.json` file and to obtain the LLM outputs based on the dataset inputs.
