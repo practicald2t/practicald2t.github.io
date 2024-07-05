@@ -43,7 +43,6 @@ During this phase, use the known domain data to develop and evaluate your LLM-as
 
 **[See the dedicated page of how we evaluated the baseline LLM outputs using _factgenie_](/pages/shared_task_evaluation_script)!**
 
-**The evaluation script will be provided soon. Meanwhile, you can start working on your system by using the known domain data.** 
 
 ### Variation of the evaluation script 
 Our script can be customised to vary the used LLMs, prompts, errors, annotation attributes and more. We encourage you to modify/improve the script to explore different evaluation methodologies. For example, you may:
