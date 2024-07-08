@@ -6,13 +6,13 @@ layout: default
  <div class="forms">
     <img src="../assets/images/github-logo.png">
     <a href="https://github.com/kasnerz/factgenie/">
-    <p style="font-size: large">See __factgenie__ on GitHub</p>
+    <p style="font-size: large">See <i>factgenie</i> on GitHub</p>
     </a>
 </div>
  <div class="forms">
     <img src="../assets/images/factgenie-logo.png">
     <a href="https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&split=dev&example_idx=0">
-    <p style="font-size: large">Browse shared tasks `st-*` datasets in the deployed factgenie instance</p>
+    <p style="font-size: large">Browse shared tasks <i>st-* datasets</i> in the deployed factgenie instance</p>
     </a>
 </div>
 </div>
