@@ -4,15 +4,15 @@ layout: default
  <div class="forms-container">
 
  <div class="forms">
-    <img src="assets/images/github-logo.png">
+    <img src="../assets/images/github-logo.png">
     <a href="https://github.com/kasnerz/factgenie/">
     <p style="font-size: large">See __factgenie__ on GitHub</p>
     </a>
 </div>
  <div class="forms">
-    <img src="assets/images/factgenie-logo.png">
+    <img src="../assets/images/factgenie-logo.png">
     <a href="https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&split=dev&example_idx=0">
-    <p style="font-size: large">Browse shared tasks `st-*` datasets in deployed factgenie instance</p>
+    <p style="font-size: large">Browse shared tasks `st-*` datasets in the deployed factgenie instance</p>
     </a>
 </div>
 </div>
@@ -36,7 +36,7 @@ For this shared task, we provide a new dataset (the "known domain data") with re
 Each domain contains a dev set (100 examples) and a test set (50 examples).
 
 For evaluation purposes, we prepared the datasets in [factgenie](https://github.com/kasnerz/factgenie/blob/c8fb56aa17482dd04c9341b3bb68a2f65a7fe355/factgenie/loaders/practicald2t_st24.py) and you can browse them in the [factgenie-demo](https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&split=dev&example_idx=0).
-In _factgenie_, we evaluate baseline outputs from the _mistral_ model (select the annotations `st24-demo-openweather-dev-llama3` annotation created using `llama3` demo).
+In _factgenie_, we evaluate baseline outputs from the _mistral_ model (select the annotations _st24-demo-openweather-dev-llama3_ annotations to see the annotation created by the [prompted](https://github.com/kasnerz/factgenie/blob/c8fb56aa17482dd04c9341b3bb68a2f65a7fe355/factgenie/llm-eval/ollama-llama3.yaml#L23) _llama3_ model).
 
 ## Expression of interest in participating
 If you wish to take part in the shared task, send an email to [d2t2024@googlegroups.com](mailto:d2t2024@googlegroups.com), with object "Shared Task Participation", and let us know the list of members of your team (name, surname and affiliation), and a team name.
