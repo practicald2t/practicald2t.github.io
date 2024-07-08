@@ -3,12 +3,18 @@ layout: default
 ---
  <div class="forms-container">
 
- <!-- <div class="forms">
+ <div class="forms">
     <img src="assets/images/github-logo.png">
-    <a href="https://github.com/practicald2t/hackathon/">
-    <p style="font-size: large">Hackathon – Github</p>
+    <a href="https://github.com/kasnerz/factgenie/">
+    <p style="font-size: large">See __factgenie__ on GitHub</p>
     </a>
-</div> -->
+</div>
+ <div class="forms">
+    <img src="assets/images/factgenie-logo.png">
+    <a href="https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&split=dev&example_idx=0">
+    <p style="font-size: large">Browse shared tasks `st-*` datasets in deployed factgenie instance</p>
+    </a>
+</div>
 </div>
 
 # Shared task
@@ -21,13 +27,16 @@ Practical D2T 2024 features a shared task on improving the semantic accuracy of 
 ### The data
 For this shared task, we provide a new dataset (the "known domain data") with recent data (in the form of JSONs and CSVs) from four domains:
 
-- **openweather**: weather data,
-- **gsmarena**: product descriptions (specifically smartphone specs),
-**ice_hockey**: sports results (specifically hockey),
-- **owid**: time-series covering data from miscellaneous origins.
+- [**openweather**](https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&split=dev&example_idx=0): weather data,
+- [**gsmarena**](https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-gsmarena&split=dev&example_idx=0): product descriptions (specifically smartphone specs),
+- [**ice_hockey**](https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-ice_hockey&split=dev&example_idx=0): sports results (specifically hockey),
+- [**owid**](https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-owid&split=dev&example_idx=0): time-series covering data from miscellaneous origins.
 
 ### You can download the dataset from [here](https://practicald2t.github.io/assets/shared_task_data/known_domains.zip). 
 Each domain contains a dev set (100 examples) and a test set (50 examples).
+
+For evaluation purposes, we prepared the datasets in [factgenie](https://github.com/kasnerz/factgenie/blob/c8fb56aa17482dd04c9341b3bb68a2f65a7fe355/factgenie/loaders/practicald2t_st24.py) and you can browse them in the [factgenie-demo](https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&split=dev&example_idx=0).
+In _factgenie_, we evaluate baseline outputs from the _mistral_ model (select the annotations `st24-demo-openweather-dev-llama3` annotation created using `llama3` demo).
 
 ## Expression of interest in participating
 If you wish to take part in the shared task, send an email to [d2t2024@googlegroups.com](mailto:d2t2024@googlegroups.com), with object "Shared Task Participation", and let us know the list of members of your team (name, surname and affiliation), and a team name.
