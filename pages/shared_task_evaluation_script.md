@@ -4,9 +4,9 @@ layout: default
  <div class="forms-container">
 
  <div class="forms">
-    <img src="../assets/images/github-logo.png">
     <a href="https://github.com/kasnerz/factgenie/">
     <p style="font-size: large"><i>Factgenie</i> Toolking for Annotating and Visualizing LLM Hallucinations</p>
+    <img src="../assets/images/github-logo.png">
     </a>
 </div>
 
@@ -22,11 +22,13 @@ layout: default
 - Before using any dataset one needs to prepare dataloading of the datasets in _factgenie_. Luckily, we have added the shared tasks _st-*_ datasets to _factgenie_ for you.
 
 ## Looking at the result: Shared Task datasets and annotations
-_Before we start. Let's look at running _factgenie_ instance deployed at:
+Before we start, let's look at running _factgenie_ instance deployed at:
 
 <a href="https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&split=dev&example_idx=0">
-    https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&split=dev&example_idx=0 <br/>
-    <img src="../assets/images/factgenie_eval_script/factgenie_st24_openweather_dev_llama3_annotation.png" alt="Example from deployed factgenie toolkit at the address https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&split=dev&example_idx=0">
+    https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&split=dev&example_idx=0
+    <br/>
+    <br/>
+    <img src="../assets/images/factgenie_eval_script/factgenie_st24_openweather_dev_llama3_annotation.png" alt="Example from deployed factgenie toolkit at the address https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&split=dev&example_idx=0"/>
 </a>
 
 - There are an _Openweather_ domain input data examples released as _st24-openweather_ dataset.
