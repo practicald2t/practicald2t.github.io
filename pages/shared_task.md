@@ -32,6 +32,9 @@ For this shared task, we provide a new dataset (the "known domain data") with re
 - [**ice_hockey**](https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-ice_hockey&split=dev&example_idx=0): sports results (specifically hockey),
 - [**owid**](https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-owid&split=dev&example_idx=0): time-series covering data from miscellaneous origins.
 
+
+<img src="../assets/images/factgenie_data_combined.png" style="max-width: 300px;" alt="preview of the data in factgenie">
+
 ### You can download the dataset from [here](https://practicald2t.github.io/assets/shared_task_data/known_domains.zip). 
 Each domain contains a dev set (100 examples) and a test set (50 examples).
 
