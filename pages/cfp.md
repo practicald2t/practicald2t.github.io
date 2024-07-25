@@ -50,7 +50,7 @@ Note: All deadlines are 23:59 UTC-12.
 
 Main and special track:
 - **First call for paper:** 20 June
-- <span style="color: #276275;">**Regular paper submission:** 22 July</span>
+- <span style="color: #276275;">**Regular paper submission:**  ~~22 July~~ 26 July </span>
 - **Notification of acceptance:**  19 August
 - **Camera-ready:**  28 August
 - **Workshop:** 23 September @INLG 2024, Tokyo, Japan
