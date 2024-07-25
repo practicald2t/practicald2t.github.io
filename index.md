@@ -24,7 +24,7 @@ Note: All deadlines are 23:59 UTC-12.
 
 Main and special track:
 - **First call for paper:** 20 June
-- <span style="color: #276275;">**Regular paper submission:** 22 July</span>
+- <span style="color: #276275;">**Regular paper submission:**  ~~22 July~~ 26 July</span>
 - **Notification of acceptance:**  19 August
 - **Camera-ready:**  28 August
 - **Workshop:** 23 September @INLG 2024, Tokyo, Japan
@@ -58,6 +58,7 @@ Note: All deadlines are 23:59 UTC-12.
 
 
 # News
+- 24/07/2024: Based on multiple requests, we decided to update the deadline. The submission page is now open until Friday, July 26, 23.59 AoE. Good luck with your submissions!
 - 04/07/2024: [Evaluation script is released together with baseline outputs and instructions how to use it!](/pages/shared_task_evaluation_script) on how to use it with the released data!
 - 01/07/2024: We created a public Google group [https://groups.google.com/g/public-d2t2024/](https://groups.google.com/g/public-d2t2024/) where you can follow the news and get technical feedback. For private matters see the [/contacts page](https://practicald2t.github.io/pages/contacts).
 - 28/06/2024: We now have a date! Practical D2T 2024 will be on 23 September @INLG 2024, Tokyo, Japan!
