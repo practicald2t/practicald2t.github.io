@@ -29,42 +29,14 @@ Practical D2T 2024 will be a full-day in-person-only event. We welcome contribut
 ### Special Track: Neuro-Symbolic D2T
 Research is currently seeing a renewed interest in developing systems combining neural and symbolic approaches to improve explainability and reduce dependence on training data. Practical D2T 2024 will feature a special track on neuro-symbolic approaches to D2T. Submissions for papers in the special track follow the same requirements and procedure as the main workshop submissions.
 
-### Shared task: Improving Semantic Accuracy in LLM-assisted D2T
-This year will feature a shared task on improving semantic accuracy of D2T systems. Participants will build an LLM-assisted D2T system to generate textual reports from various domains, such as weather forecasting, product descriptions or sports reports. We will provide testing data obtained from public APIs, to limit potential previous exposure to the used LLMs. 
-
-We encourage participants to focus on system robustness and objective evaluation, rather than metrics scores. The shared task will adopt the following protocol:
-
-1. **Development and evaluation on known domains:** We will release a dataset covering four (4) D2T domains, on which participants will base the development of their system. For evaluation, we will provide an initial script that prompts LLM to perform error span annotation, as a proxy for semantic accuracy.
-2. **Variation of the evaluation script:** The script we will provide can be customised with different LLMs and prompts. Participants are encouraged to modify/improve the script to explore different evaluation methodologies.
-Suggested LLMs are Llama3, Phi3, Qwen2, and Mistral, or provide their own custom model checkpoints (along with details on the model characteristics), as long as the format is compatible with the aforementioned ones.
-3. **Output submission and surprise domain evaluation:** Participants will submit their best output, evaluation results and eventual modified evaluation script. Upon submission, they will receive an additional test-set covering a surprise domain, to test the robustness of their system/evaluation. Participants will have one week to send back their outputs on the new test-set.
-4. **Final automatic evaluation:** Once we receive all submissions, we will evaluate every received output against every received evaluation script.
-5. **Final human evaluation:** Finally, we will run a human evaluation on all the received outputs, and correlate human judgements against the automatic evaluations.
-
-At the workshop, we will present results and insights of our evaluation: how every script works on different system outputs, and how they correlate with human annotators. The system reaching the highest correlation with humans will be declared winner of the competition. Results and participants’ system descriptions will be featured in the workshop proceedings. 
-
-Find more info in the shared task's [page](https://practicald2t.github.io/pages/shared_task).
-
 # Important dates
 Note: All deadlines are 23:59 UTC-12.
 
-Main and special track:
 - **First call for paper:** 20 June
 - <span style="color: #276275;">**Regular paper submission:**  ~~22 July~~ 26 July </span>
 - **Notification of acceptance:**  19 August
 - **Camera-ready:**  28 August
 - **Workshop:** 23 September @INLG 2024, Tokyo, Japan
-
-
-Shared task:
-- **Evaluation script and data release for known domains (shared task):**  24 June
-- <span style="color: #276275;">**Known domains system output submission & surprise domain data release:** 29 July</span>
-- <span style="color: #276275;">**Surprise domain system outputs submission:** 5 August</span>
-- <span style="color: #276275;">**System description submission (shared task):** 12 August</span>
-- **Notification of acceptance:**  19 August
-- **Camera-ready:**  28 August
-
-
 
 # Submission
 
@@ -72,20 +44,10 @@ We welcome two types of papers: regular workshop papers and non-archival submiss
 
 - **Long papers**: *up to eight (8) pages* describing substantial, completed work, with concrete evaluation wherever appropriate.
 - **Short papers**: *up to four (4) pages of content*. Short papers may describe preliminary contributions, negative results, opinion pieces, or a small set of interesting results.
-- **Shared task**: participants will be required to send their
-  1. Best output (textual summaries produced by their system)
-  2. Results of our evaluation script
-  3. Eventual custom evaluation results, along with the modified script and every element (i.e. model checkpoint) necessary to run it
-  4. System description (1+ page)
-
-<!---
-Participants will send their submission through $TODO_CODALAB_EMAIL_OR_BOTH_? with the subject "[Submission] {title of your work}" before the submission deadline (see below).--->
 
 ### Submission procedure and templates
 For the main and special track, please submit short and long papers directly through the [INLG submission portal](https://softconf.com/n/inlg2024/user/scmd.cgi?scmd=submitNew), selecting "Click HERE to make a new Practical Data-to-Text submission". 
 Choose the appropriate *submission type* (Long/Short Paper), *track* (Main/Neuro-Symbolic D2T) and *Proceedings Type* (Archival/Non-Archival).
-
-For the shared task, submission details will be released soon.
 
 All submissions must follow the submission template and guidelines issued by INLG 2024.
 
