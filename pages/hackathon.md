@@ -45,7 +45,7 @@ If you wish to take part in the hackathon, please consider sending an email to [
 
 During the first part of the hackathon, we will give you a quick tour of <a href="https://github.com/kasnerz/factgenie/"><i>factgenie</i></a> and its features. This phase will be focused on generation, so we will work together on prompting open LLMs to produce summaries from structured data. Feel free to variate your prompts, parameters and play with different datasets to get the best output!
 
-## Phase 2: Annotation and results (75 minutes)
+## Phase 2: Annotation and results (80 minutes)
 
 Next, it's time to see how good the obtained summaries are! We will explore the second feature of <a href="https://github.com/kasnerz/factgenie/"><i>factgenie</i></a>, that is error annotation. During this phase, you can play with different LLMs as error annotators. JUst like before, you can variate the model, prompts and parameters, but also, introduce new error categories besides those we will provide.
 
