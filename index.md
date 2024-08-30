@@ -17,7 +17,7 @@ Natural Language Generation (NLG) has been an active area of research for decade
 
 The recently introduced instruction-tuned, multi-task Large Language Models (LLMs) promise to become a viable alternative to rule-based D2T systems. They exhibit the ability to capture knowledge, follow instructions, and produce coherent text from various domains ([Sanh et al., 2021](https://arxiv.org/abs/2110.08207); [Ouyang et al., 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)). However, even the best LLMs still suffer from well-known issues of neural models, such as lack of controllability and risk of producing harmful text. Recent research thus proposed various approaches to improve the semantic accuracy of LLMs D2T, including prompt tuning ([Su et al., 2022](https://aclanthology.org/2022.naacl-main.290/); [Ye and Durrett, 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c402501846f9fe03e2cac015b3f0e6b1-Abstract-Conference.html)), targeted fine-tuning ([Zhang et al., 2024](https://arxiv.org/abs/2402.17193)), Retrieval Augmented Generation (RAG) ([Jiang et al., 2023](https://arxiv.org/abs/2305.06983); [Chen et al., 2024](https://ojs.aaai.org/index.php/AAAI/article/view/29728)), external tool integration ([Wang et al., 2024](https://arxiv.org/abs/2402.02420)), and neuro-symbolic approaches ([Sarker et al, 2021](https://arxiv.org/abs/2105.05330); [Hitzler et al., 2022](https://books.google.cz/books?hl=it&lr=&id=uFtcEAAAQBAJ&oi=fnd&pg=PR1&dq=Sarker+et+al,+2021+neuro-symbolic&ots=s8GC0CDB-c&sig=WMNbMuSy_fDcfco3TSBwySxWi5c&redir_esc=y#v=onepage&q=Sarker%20et%20al%2C%202021%20neuro-symbolic&f=false)).
 
-Practical D2T 2024 aims to build a space for researchers to discuss and present innovative work on D2T systems using LLMs. Building upon the 2023 edition’s hackathon, Practical D2T 2024 opens up a broader range of activities, including a special track for neuro-symbolic D2T approaches and a shared task in D2T evaluation focused on semantic accuracy.
+Practical D2T 2024 aims to build a space for researchers to discuss and present innovative work on D2T systems using LLMs. Building upon the 2023 edition’s hackathon, Practical D2T 2024 opens up a broader range of activities, including a special track for neuro-symbolic D2T approaches and a hackathon focused on the evaluation and semantic accuracy of D2T using LLMs.
 
 # Important dates
 Note: All deadlines are 23:59 UTC-12.
@@ -28,15 +28,6 @@ Main and special track:
 - **Notification of acceptance:**  19 August
 - **Camera-ready:**  28 August
 - **Workshop:** 23 September @INLG 2024, Tokyo, Japan
-
-
-Shared task:
-- **Evaluation script and data release for known domains (shared task):**  24 June
-- <span style="color: #276275;">**Known domains system output submission & surprise domain data release:** 29 July</span>
-- <span style="color: #276275;">**Surprise domain system outputs submission:** 5 August</span>
-- <span style="color: #276275;">**System description submission (shared task):** 12 August</span>
-- **Notification of acceptance:**  19 August
-- **Camera-ready:**  28 August
 
 <!--
 
@@ -59,10 +50,8 @@ Note: All deadlines are 23:59 UTC-12.
 
 # News
 - 24/07/2024: Based on multiple requests, we decided to update the deadline. The submission page is now open until Friday, July 26, 23.59 AoE. Good luck with your submissions!
-- 04/07/2024: [Evaluation script is released together with baseline outputs and instructions how to use it!](/pages/shared_task_evaluation_script) on how to use it with the released data!
 - 01/07/2024: We created a public Google group [https://groups.google.com/g/public-d2t2024/](https://groups.google.com/g/public-d2t2024/) where you can follow the news and get technical feedback. For private matters see the [/contacts page](https://practicald2t.github.io/pages/contacts).
 - 28/06/2024: We now have a date! Practical D2T 2024 will be on 23 September @INLG 2024, Tokyo, Japan!
-- 25/06/2024: Known domain data for the shared task is [online](https://practicald2t.github.io/pages/shared_task)!
 - 20/06/2024: Call for paper is [online](https://practicald2t.github.io/pages/cfp)!
 - 19/06/2024: the official Practical D2T 2024 website is online!
 
