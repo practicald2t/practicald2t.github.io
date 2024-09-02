@@ -18,16 +18,16 @@ layout: default
 </div>
 
 # Hackathon
-Practical D2T 2024 features a hackathon focused on improving the semantic accuracy of D2T systems. Join us and get hands-on experience with easy and quick LLM as judge and comparable human annations! Let's explore the NLG outputs together at the hackathon on Monday :muscle:
+Practical D2T 2024 features a hackathon focused on improving the semantic accuracy of D2T systems. Join us and get hands-on experience with easy and quick LLM as judge and comparable human annations! Let's explore the NLG outputs together at the hackathon on Monday 💪
 Join us on September 23rd, and explore LLMs for:
 
 1. Generating textual summaries from structured data as input
 2. Detecting different categories of errors in the obtained summaries 
 3. Comparing error detection capabilities with those of human annotators.
 
-For all of the above tasks, we will provide <a href="https://github.com/kasnerz/factgenie/"><i>factgenie</i></a>, our web framework for annotating and visualizing word spans in textual model outputs. With <a href="https://github.com/kasnerz/factgenie/"><i>factgenie</i></a>, both humans and LLMs can be used to annotate various span-based errors including semantic inaccuracies or irrelevant text. With factgenie, the annotations can be collected both from human crowdworkers and large language models.
+For all of the above tasks, we will use <a href="https://github.com/kasnerz/factgenie/"><i>factgenie</i></a>, our web framework for annotating and visualizing word spans in textual model outputs. With <a href="https://github.com/kasnerz/factgenie/"><i>factgenie</i></a>, both humans and LLMs can be used to annotate various span-based errors including semantic inaccuracies or irrelevant text.
 
-For this hackathon, we will use sample data from various domains containing recent structured data in the form of JSONs and CSVs. You can get a better overview of the datasets in the online [factgenie-demo](https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&split=dev&example_idx=0) we prepared. You can also see some examples of LLM-driven D2T and error annotation: try selecting the dataset (top left) _st24-openweather_, and the annotations (top right) _st24-demo-openweather-dev-llama3_. You will see what kind of weather summaries _Mistral_ produces, and how _LLama 3_ tries to spot eventual errors.
+For this hackathon, we will work on various domains using recent structured data in the form of JSONs and CSVs. You can take a first look at the data in the online [factgenie-demo](https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&split=dev&example_idx=0) we prepared. You can also see some examples of LLM-driven D2T and error annotation: try selecting the dataset (top left) _st24-openweather_, and the annotations (top right) _st24-demo-openweather-dev-llama3_. You will see what kind of weather summaries _Mistral_ produces, and how _LLama 3_ tries to spot eventual errors.
 
 ## Expression of interest in participating
 If you wish to take part in the hackathon, please consider sending an email to [d2t2024@googlegroups.com](mailto:d2t2024@googlegroups.com), with object "Hackathon Participation", and let us know if you will take part individually or as a group (in this case, let us know how many people are expected to take part).
