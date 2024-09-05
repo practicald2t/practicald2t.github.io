@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 classes: wide
 ---
  <div class="forms-container">
