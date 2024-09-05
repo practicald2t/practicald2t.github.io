@@ -191,19 +191,19 @@ code.highlighter-rouge {
 
 
 table {
-  //width: 100%; // @uccollab: this makes the table stretched, removed
+  width: 100%; 
   margin: 0 0 20px 0;
 }
 
 th {
   text-align: left;
   border-bottom: 1px dashed $conifer-replacement;//#b5e853;
-  //padding: 5px 10px;
+  padding: 5px 10px;
 }
 
-//td {
-//  padding: 5px 10px;
-//}
+td {
+  padding: 5px 10px;
+}
 
 hr {
   height: 0;
