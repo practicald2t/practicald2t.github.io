@@ -2,7 +2,7 @@
 @import "default_colors";
 
 $body-background: $cod-grey !default;
-//$body-foreground: $gallery !default;
+//$body-foreground: $gallery !default; #uccollab: this makes the table font light grey, removed.
 $header: $conifer !default;
 //uccollab: re-theming
 $blockquote-color: black;//$silver-chalice !default;
@@ -189,10 +189,11 @@ code.highlighter-rouge {
   border-radius: 2px;
 }
 
-table {
-  width: 100%;
-  margin: 0 0 20px 0;
-}
+// @uccollab: this makes the table stretched, removed
+//table {
+//  width: 100%;
+//  margin: 0 0 20px 0;
+//}
 
 th {
   text-align: left;
