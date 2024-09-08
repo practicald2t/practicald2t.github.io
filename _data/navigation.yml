@@ -1,0 +1,15 @@
+main:
+  - title: "Home"
+    url: /index
+  - title: "Calls"
+    url: /_pages/cfp
+  - title: "Hackathon"
+    url: /_pages/hackathon/
+  - title: "Accepted Papers"
+    url: /_pages/accepted_papers/
+  - title: "Programme"
+    url: /_pages/programme/
+  - title: "Contacts"
+    url: /_pages/contacts
+  - title: "Practical D2T 2023"
+    url: /2023/

@@ -1,0 +1,351 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.26.2 by Michael Rose
+  Copyright 2013-2024 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en-US" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Practical D2T</title>
+<meta name="description" content="Practical D2T at INLG 2024 Tokyo, Japan, 23 Sept, 2024">
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Practical D2T">
+<meta property="og:title" content="Practical D2T">
+<meta property="og:url" content="http://localhost:4000/_pages/shared_task_evaluation_script/">
+
+
+  <meta property="og:description" content="Practical D2T at INLG 2024 Tokyo, Japan, 23 Sept, 2024">
+
+
+
+  <meta property="og:image" content="http://localhost:4000/assets/images/banner_new.jpg">
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/_pages/shared_task_evaluation_script/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Practical D2T Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Practical D2T
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/index"
+                
+                
+              >Home</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/_pages/cfp"
+                
+                
+              >Calls</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/_pages/hackathon/"
+                
+                
+              >Hackathon</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/_pages/accepted_papers/"
+                
+                
+              >Accepted Papers</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/_pages/programme/"
+                
+                
+              >Programme</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/_pages/contacts"
+                
+                
+              >Contacts</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/2023/"
+                
+                
+              >Practical D2T 2023</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+<div class="page__hero--overlay"
+  style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('/assets/images/banner_new.jpg');"
+>
+  
+    <div class="wrapper">
+      <h1 id="page-title" class="page__title" itemprop="headline">
+        
+          Practical D2T
+
+        
+      </h1>
+      
+        <p class="page__lead">Practical D2T at INLG 2024<br /> Tokyo, Japan, 23 Sept, 2024
+</p>
+      
+      
+
+
+      
+    </div>
+  
+  
+</div>
+
+
+
+
+
+
+
+<div id="main" role="main">
+  
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <meta itemprop="description" content="Practical D2T at INLG 2024 Tokyo, Japan, 23 Sept, 2024">
+    
+    
+
+    <div class="page__inner-wrap">
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <div class="forms-container">
+
+ <div class="forms">
+    <a href="https://github.com/kasnerz/factgenie/">
+    <p style="font-size: large"><i>Factgenie</i> Toolking for Annotating and Visualizing LLM Hallucinations</p>
+    <img src="../assets/images/github-logo.png" />
+    </a>
+</div>
+
+</div>
+
+<h1 id="running-an-evaluation-script-for-the-shared-task-datasets">Running an Evaluation Script for the Shared Task Datasets</h1>
+
+<ul>
+  <li>We use the https://github.com/kasnerz/factgenie/ framework in the shared task for running the LLM evaluation (annotation of the data-to-text system outputs using LLMs).
+    <ul>
+      <li><strong>We strongly encourage to run it locally and visualize and evaluate your outputs in factgenie</strong></li>
+      <li><em>factgenie</em> has cli <code class="language-plaintext highlighter-rouge">factgenie run-llm-eval</code> for running the evaluation from CLI.</li>
+      <li><em>factgenie</em> can run the same evaluation interactively in a browser at <em>http://127.0.0.1:5000/llm-eval</em>. It is great for debugging the prompt.</li>
+    </ul>
+  </li>
+  <li>We use <em>factgenie</em> webserver also for visualization of the annotation and the datasets themselves.</li>
+  <li>Before using any dataset one needs to prepare dataloading of the datasets in <em>factgenie</em>. Luckily, we have added the shared tasks <em>st-*</em> datasets to <em>factgenie</em> for you.</li>
+</ul>
+
+<h2 id="looking-at-the-result-shared-task-datasets-and-annotations">Looking at the result: Shared Task datasets and annotations</h2>
+<p>Before we start, let’s look at running <em>factgenie</em> instance deployed at:</p>
+
+<p><a href="https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&amp;split=dev&amp;example_idx=0">
+    https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&amp;split=dev&amp;example_idx=0
+    <br />
+    <br />
+    <img src="../assets/images/factgenie_eval_script/factgenie_st24_openweather_dev_llama3_annotation.png" alt="Example from deployed factgenie toolkit at the address https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&amp;split=dev&amp;example_idx=0" />
+</a></p>
+
+<ul>
+  <li>There are an <em>Openweather</em> domain input data examples released as <em>st24-openweather</em> dataset.</li>
+  <li>The output from a <em>mistral</em> model was generated using https://github.com/kasnerz/quintd/ (in particular this <a href="https://github.com/kasnerz/quintd/pull/4">version</a>)</li>
+  <li>The annotations with id <em>st24-demo-openweather-dev-llama3</em> were generated using the following command</li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>factgenie run-llm-eval \
+  --campaign_name st24-demo-openweather-dev-llama3 \
+  --dataset_name st24-openweather \
+  --split dev \
+  --llm_output_name mistral \
+  --llm_metric_config factgenie/llm-eval/ollama-llama3.yaml
+</code></pre></div></div>
+
+<h2 id="running-the-evaluation">Running the evaluation</h2>
+
+<ol>
+  <li>Go through the <a href="https://github.com/kasnerz/factgenie/blob/main/README.md">README.md</a> and install dependencies.</li>
+  <li>[(Optionally) Look at how we added the shared <a href="https://github.com/kasnerz/factgenie/pull/35#issue-2384606283">task datasets</a> in the section <em>How to evaluate the existing outputs?</em></li>
+  <li>At the same <a href="https://github.com/kasnerz/factgenie/pull/35#issue-2384606283">PR</a> look at the section <em>How to evaluate the existing outputs?</em> and learn how to run the <em>factgenie run-llm-eval</em> command</li>
+  <li>
+    <p>Finally, look at how you can add your model outputs to factgenie to be evaluated.
+Here is <a href="https://github.com/kasnerz/factgenie/pull/35/files#r1665339740">the example</a> for <em>mistral</em> model.
+Assuming you have outputs from an <em>awesome_model</em> for the input data from the <em>dev</em> split of the <em>st24-gsmarena</em> datasets; then you need to create file  <code class="language-plaintext highlighter-rouge">factgenie/outputs/st24-gsmarena/dev/awesome_model.json</code> with the <a href="factgenie/outputs/st24-gsmarena/dev/mistral.json">structure described in the example</a>:</p>
+
+    <p>The following structure is required for the LLM output file</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> {
+     "setup" {
+         "id": "mistral",
+         "model": "mistral"
+     },
+     "generated": [{"out": "first llm output}, {"out": "second llm output"}, ..., {"out": "Last llm output"}]
+ }
+</code></pre></div>    </div>
+    <p>The rest of the fields are ignored by <em>factgenie</em>. In this case, the rest of the fields were used by https://github.com/kasnerz/quintd to generate the <em>mistral.json</em> file and to obtain the LLM outputs based on the dataset inputs.</p>
+  </li>
+</ol>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+      </footer>
+
+      
+
+      
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+      
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2024 <a href="http://localhost:4000">Practical D2T</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

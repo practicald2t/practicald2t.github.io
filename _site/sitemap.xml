@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/_pages/accepted_papers</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/cfp</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/contacts</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/hackathon/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/programme</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/shared_task_evaluation_script/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/recordings/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/papers/</loc>
+<lastmod>2024-09-06T14:20:59+02:00</lastmod>
+</url>
+</urlset>
