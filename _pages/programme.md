@@ -35,7 +35,7 @@ All timings are in GMT+9 (Tokyo, Japan).
 | 14:40 15:30 | **Hackathon (Part 1)** |
 | 15:30 16:00 | **Coffee Break** |
 | 16:00 17:20 | **Hackathon (Part 2)** |
-| 17:20 18:20 | **Invited Talk w**<br> <br> Title: Inference over Clinical Trial Data: A Neuro-Symbolic Perspective<br>by **Marco Valentino**,  Neuro-Symbolic AI Group / Idiap Research Institute<br> <br> <em>(Abstract to be announced soon)</em><br> | <img src="/assets/images/2024/Marco Valentino - fit.png" alt="ALT: Invited speaker propic" width="1500" height="2100"> |
+| 17:20 18:20 | **Invited Talk 2**<br> <br> Title: Inference over Clinical Trial Data: A Neuro-Symbolic Perspective<br>by **Marco Valentino**,  Neuro-Symbolic AI Group / Idiap Research Institute<br> <br> <em>(Abstract to be announced soon)</em><br> | <img src="/assets/images/2024/Marco Valentino - fit.png" alt="ALT: Invited speaker propic" width="1500" height="2100"> |
 | 18:20 18:30 | **Closing** |
 | 19:00 | **Dinner** |
 
