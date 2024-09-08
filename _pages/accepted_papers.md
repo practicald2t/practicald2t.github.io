@@ -21,8 +21,6 @@ header:
 
 # Accepted Papers
 
-## Accepted Papers
-
 * [Beyond the Hype: Identifying and Analyzing Math Word Problem-Solving Challenges for Large Language Models](https://drive.google.com/file/d/1L1L5LsnrQprvmDUAMdJGKrYT87NupvQ0/view?usp=sharing)
 <br/> Romina Soledad Albornoz-De Luise, David Arnau, Pablo Arnau-González and Miguel Arevalillo-Herráez
 
