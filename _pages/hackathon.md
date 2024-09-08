@@ -25,7 +25,6 @@ header:
 </div>
 </div>
 
-# Hackathon
 Practical D2T 2024 features a hackathon focused on improving the semantic accuracy of D2T systems. Join us and get hands-on experience with easy and quick LLM as judge and comparable human annations! Let's explore the NLG outputs together at the hackathon on Monday 💪
 
 Join us on September 23rd, and explore LLMs for:
