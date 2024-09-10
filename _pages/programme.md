@@ -31,7 +31,7 @@ All timings are in GMT+9 (Tokyo, Japan).
 | 11:30 11:50 | Schedule to be decided <br> *(WIP)* |
 | 11:50 12:10 | Schedule to be decided <br> *(WIP)* |
 | 12:10 13:40 | **Lunch** |
-| 13:40 14:40 | **Panel**<br> <br>Panelists:<br> **- Craig Thomson**, ADAPT/DCU <br> **- Claire Gardent**, CNRS <br> **- C. Maria Keet**, University of Cape Town <br> **- Michela Lorandi**, ADAPT/DCU <br><br>|
+| 13:40 14:40 | **Panel**<br> <br>Panelists:<br> **- Claire Gardent**, CNRS <br> **- C. Maria Keet**, University of Cape Town <br> **- Michela Lorandi**, ADAPT/DCU <br> **- Craig Thomson**, ADAPT/DCU <br> <br>|
 | 14:40 15:30 | **Hackathon (Part 1)** |
 | 15:30 16:00 | **Coffee Break** |
 | 16:00 17:20 | **Hackathon (Part 2)** |
