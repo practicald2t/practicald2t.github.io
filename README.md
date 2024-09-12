@@ -1,7 +1,5 @@
-# humeval.github.io
-Homepage for Workshop on Human Evaluation of NLP Systems
-
-Repository for website https://humeval.github.io
+# practicald2t.github.io
+Homepage for Workshop on Practical LLM-assisted Data-to-Text Generation
 
 ## Editing
 
@@ -30,7 +28,3 @@ The url (e.g., `/programme/`) in the navigation file should match the page perma
 3. Run `bundle install`
 4. Run `bundle exec jekyll serve`
 5. To preview the site, in your web browser, navigate to http://localhost:4000
-
-## Credits
-
-Thanks Hendrik and Dimitra for providing the starter code.
