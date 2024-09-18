@@ -29,7 +29,7 @@ header:
 
 * [Enhancing Situation Awareness through Model-Based Explanation Generation
 ](https://drive.google.com/file/d/12IDFQKv_48ubx4hwx_qsH9qj_cx7hJu7/view?usp=sharing)
-<br/> Konstantinos Gavriilidis, Ioannis Konstas, Helen Hastie and Wei Pang
+<br/> Konstantinos Gavriilidis, Ioannis Konstas, Helen Hastie, Andrea Munafo and Wei Pang
 
 ## Acknowledgments
 <p>Funded by the European Union (ERC, NG-NLG, 101039303)</p>
