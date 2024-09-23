@@ -49,7 +49,7 @@ We encourage you to [join the Some INLG Discord server](https://discord.gg/QzdUD
 
 We will use **[dedicated practical-d2t-workshop-2024 channel](https://discord.com/channels/788758570183032894/1285176845121359944)** for communication during the hackathon.
 
-We will use are existing Google Group [d2t2024@googlegroups.com](https://groups.google.com/g/d2t2024) only as a backup solution.
+We will use are existing Google Group [d2t2024@googlegroups.com](https://groups.google.com/g/public-d2t2024) only as a backup solution.
 
 ## Phase 1: Intro + generation (50 min)
 
