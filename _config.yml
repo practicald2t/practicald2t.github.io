@@ -162,6 +162,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - /2023
 keep_files:
   - .git
   - .svn
