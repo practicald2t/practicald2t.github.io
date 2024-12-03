@@ -115,19 +115,19 @@
               >Calls</a>
             </li><li class="masthead__menu-item">
               <a
-                href="/_pages/hackathon/"
+                href="/_pages/hackathon"
                 
                 
               >Hackathon</a>
             </li><li class="masthead__menu-item">
               <a
-                href="/_pages/accepted_papers/"
+                href="/_pages/accepted_papers"
                 
                 
               >Accepted Papers</a>
             </li><li class="masthead__menu-item">
               <a
-                href="/_pages/programme/"
+                href="/_pages/programme"
                 
                 
               >Programme</a>
@@ -139,7 +139,7 @@
               >Contacts</a>
             </li><li class="masthead__menu-item">
               <a
-                href="/2023/"
+                href="https://ufallab.ms.mff.cuni.cz/~kasner/practicald2t/"
                 
                 
               >Practical D2T 2023</a>
@@ -205,7 +205,7 @@
 <div class="forms-container">
 
  <div class="forms">
-    <a href="https://github.com/kasnerz/factgenie/">
+    <a href="https://github.com/ufal/factgenie/">
     <p style="font-size: large">See <i>factgenie</i> on GitHub</p>
     </a>
 </div>
@@ -216,8 +216,9 @@
 </div>
 </div>
 
-<h1 id="hackathon-1">Hackathon</h1>
-<p>Practical D2T 2024 features a hackathon focused on improving the semantic accuracy of D2T systems. Join us and get hands-on experience with easy and quick LLM as judge and comparable human annations! Let’s explore the NLG outputs together at the hackathon on Monday 💪</p>
+<p>Practical D2T 2024 features a hackathon focused on improving the semantic accuracy of D2T systems.
+Join us and get hands-on experience with easy and quick LLM as judge and comparable human annotations!
+Let’s explore the NLG outputs together at the hackathon on Monday 💪</p>
 
 <p>Join us on September 23rd, and explore LLMs for:</p>
 
@@ -227,22 +228,37 @@
   <li>Comparing error detection capabilities with those of human annotators.</li>
 </ol>
 
-<p>We will use <a href="https://github.com/kasnerz/factgenie/"><i>factgenie</i></a>, our web framework for annotating and visualizing word spans in textual model outputs. With <a href="https://github.com/kasnerz/factgenie/"><i>factgenie</i></a>, both humans and LLMs can be used to annotate various span-based errors including semantic inaccuracies or irrelevant text.</p>
+<p>We will use <a href="https://github.com/ufal/factgenie/"><i>factgenie</i></a>, our web framework for annotating and visualizing word spans in textual model outputs.
+With <a href="https://github.com/ufal/factgenie/"><i>factgenie</i></a>, both humans and LLMs can be used to annotate various span-based errors including semantic inaccuracies or irrelevant text.</p>
 
-<p>We will work on various domains using recent structured data in the form of JSONs and CSVs. You can take a first look at the data in the online <a href="https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&amp;split=dev&amp;example_idx=0">factgenie-demo</a> we prepared. You can also see some examples of LLM-driven D2T and error annotation: try selecting the dataset (top left) <em>st24-openweather</em>, and the annotations (top right) <em>st24-demo-openweather-dev-llama3</em>. You will see what kind of weather summaries <em>Mistral</em> produces, and how <em>LLama 3</em> tries to spot eventual errors.</p>
+<p>We will work on various domains using recent structured data in the form of JSONs and CSVs.
+You can take a first look at the data in the online <a href="https://quest.ms.mff.cuni.cz/namuddis/factgenie/browse?dataset=st24-openweather&amp;split=dev&amp;example_idx=0">factgenie-demo</a> we prepared.
+You can also see some examples of LLM-driven D2T and error annotation: try selecting the dataset (top left) <em>st24-openweather</em>, and the annotations (top right) <em>st24-demo-openweather-dev-llama3</em>.
+You will see what kind of weather summaries <em>Mistral</em> produces, and how <em>LLama 3</em> tries to spot eventual errors.</p>
 
-<h2 id="expression-of-interest-in-participating">Expression of interest in participating</h2>
-<p>If you wish to take part in the hackathon, please consider sending an email to <a href="mailto:d2t2024@googlegroups.com">d2t2024@googlegroups.com</a>, with object “Hackathon Participation”, and let us know if you will take part individually or as a group (in this case, let us know how many people are expected to take part).</p>
+<h2 id="communication-channels">Communication channels</h2>
+
+<p>We encourage you to <a href="https://discord.gg/QzdUDQMXzW">join the Some INLG Discord server</a> which will be the official communication channel for <a href="https://inlg2024.github.io/">INLG 2024</a>.</p>
+
+<p>We will use <strong><a href="https://discord.com/channels/788758570183032894/1285176845121359944">dedicated practical-d2t-workshop-2024 channel</a></strong> for communication during the hackathon.</p>
+
+<p>We will use are existing Google Group <a href="https://groups.google.com/g/public-d2t2024">d2t2024@googlegroups.com</a> only as a backup solution.</p>
 
 <h2 id="phase-1-intro--generation-50-min">Phase 1: Intro + generation (50 min)</h2>
 
-<p>During the first part of the hackathon, we will give you a quick tour of <a href="https://github.com/kasnerz/factgenie/"><i>factgenie</i></a> and its features. This phase will be focused on generation, so we will work together on prompting open LLMs to produce summaries from structured data. Feel free to variate your prompts, parameters and play with different datasets to get the best output!</p>
+<p>During the first part of the hackathon, we will give you a quick tour of <a href="https://github.com/ufal/factgenie/"><i>factgenie</i></a> and its features.
+This phase will be focused on generation, so we will work together on prompting open LLMs to produce summaries from structured data.
+Feel free to variate your prompts, parameters and play with different datasets to get the best output!</p>
 
 <h2 id="phase-2-annotation-and-results-80-minutes">Phase 2: Annotation and results (80 minutes)</h2>
 
-<p>Next, it’s time to see how good the obtained summaries are! We will explore the second feature of <a href="https://github.com/kasnerz/factgenie/"><i>factgenie</i></a>, that is error annotation. During this phase, you can play with different LLMs as error annotators. JUst like before, you can variate the model, prompts and parameters, but also, introduce new error categories besides those we will provide.</p>
+<p>Next, it’s time to see how good the obtained summaries are!
+We will explore the second feature of <a href="https://github.com/ufal/factgenie/"><i>factgenie</i></a>, that is error annotation.
+During this phase, you can play with different LLMs as error annotators.
+Just like before, you can variate the model, prompts and parameters, but also, introduce new error categories besides those we will provide.</p>
 
-<p>At the same time, we will gather some human error annotation, to compare them with the LLMs’ ones. It is up to you to decide if you want to help us by quickly annotating a couple of summaries, focus on annotation through LLMs, or both!</p>
+<p>At the same time, we will gather some human error annotation, to compare them with the LLMs’ ones.
+It is up to you to decide if you want to help us by quickly annotating a couple of summaries, focus on annotation through LLMs, or both!</p>
 
 <p>Finally, we will correlate human annotation against LLMs ones, and discuss the results.</p>
 
@@ -251,7 +267,6 @@
 <h2 id="acknowledgments">Acknowledgments</h2>
 <p>Funded by the European Union (ERC, NG-NLG, 101039303)</p>
 <p><img src="/assets/images/erc.png" style="max-width: 300px;" alt="ERC" /></p>
-
 
     </section>
   </article>
